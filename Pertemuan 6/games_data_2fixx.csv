@@ -1,0 +1,1585 @@
+id,game,score,leaderbord,gamers,comp_perc,rating,min_comp_time,max_comp_time,recommend to play
+0,A Boy and His Blob,638,2.02,2194,16.5,3.2,15,20,recommended
+1,A Hat in Time,1992,1.53,7062,35.9,4.2,15,20,recommended
+2,A Hero and a Garden,1364,1.01,503,97.6,5,0,1,recommended
+3,A Hero and a Garden (EU),1363,1.01,581,97.8,2.9,0,1,not recommended
+4,A King's Tale: Final Fantasy XV,637,2.02,21914,14.1,3.3,4,5,recommended
+5,A Plague Tale: Innocence,1691,1.34,22221,44.3,4.3,15,20,recommended
+6,A Summer with the Shiba Inu,1372,1.02,640,96.1,2.7,0,1,not recommended
+7,A Summer with the Shiba Inu (Asia),1359,1.01,377,98.7,2.8,0,1,not recommended
+8,A Summer with the Shiba Inu (EU),1376,1.02,719,95.7,1.7,0,1,not recommended
+9,A Way Out,1793,1.36,51657,46.6,4,6,8,recommended
+10,A Winter's Daydream,1303,1.01,2249,98,2.1,0,1,not recommended
+11,A Winter's Daydream (EU),1303,1.01,2332,97.8,2.3,0,1,not recommended
+12,Aaru's Awakening,585,1.86,2681,23.4,2.5,6,8,not recommended
+13,Absolute Drift: Zen Edition,1992,1.56,3418,27.1,3.3,8,10,recommended
+14,Abyss: The Wraiths of Eden,1350,1.06,1881,83.2,3.4,5,6,recommended
+15,ABZÛ,525,1.75,38538,22.1,3.7,3,4,recommended
+16,ACA NEOGEO AERO FIGHTERS 2,315,1.11,860,67.3,3.2,0,1,recommended
+17,ACA NEOGEO AERO FIGHTERS 3,309,1.08,297,76.1,3.8,0,1,recommended
+18,ACA NEOGEO ART OF FIGHTING,310,1.09,460,77,2.5,0,1,not recommended
+19,ACA NEOGEO BURNING FIGHT,324,1.14,424,67.2,2.7,0,1,not recommended
+20,ACA NEOGEO FATAL FURY,307,1.08,390,73.3,2.2,0,1,not recommended
+21,ACA NEOGEO FATAL FURY 2,300,1.05,431,82.4,2.2,0,1,not recommended
+22,ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS,305,1.07,228,79.8,2.2,0,1,not recommended
+23,ACA NEOGEO GHOST PILOTS,319,1.12,352,67.9,3.1,0,1,recommended
+24,ACA NEOGEO METAL SLUG,318,1.12,1043,66.3,3.4,0,1,recommended
+25,ACA NEOGEO NAM-1975,310,1.09,537,77.5,3,0,1,not recommended
+26,ACA NEOGEO PULSTAR,338,1.19,300,55,3.5,0,1,recommended
+27,ACA NEOGEO SAMURAI SHODOWN,320,1.12,668,69.2,2.9,0,1,not recommended
+28,ACA NEOGEO SENGOKU,315,1.11,422,69.7,3,0,1,not recommended
+29,ACA NEOGEO SENGOKU 2,310,1.09,236,76.3,2.9,0,1,not recommended
+30,ACA NEOGEO SHOCK TROOPERS,316,1.11,292,68.8,4.1,0,1,recommended
+31,ACA NEOGEO THE KING OF FIGHTERS '94,318,1.12,640,70.6,2.9,0,1,not recommended
+32,ACA NEOGEO THE KING OF FIGHTERS '95,310,1.09,430,76,2.9,0,1,not recommended
+33,ACA NEOGEO THE KING OF FIGHTERS '96,306,1.07,431,79.8,3,0,1,not recommended
+34,ACA NEOGEO THE LAST BLADE,307,1.08,329,79.9,2.6,0,1,not recommended
+35,ACA NEOGEO WORLD HEROES,301,1.06,468,82.1,2.6,0,1,not recommended
+36,ACA NEOGEO WORLD HEROES 2,314,1.1,373,74.3,2.7,0,1,not recommended
+37,ACA NEOGEO ZED BLADE,311,1.09,393,72.3,2.9,0,1,not recommended
+38,Access Denied,1378,1.02,2414,94.3,2.4,0,1,not recommended
+39,Access Denied (Asia),1363,1.01,1104,97.2,2.2,0,1,not recommended
+40,Access Denied (EU),1381,1.02,3857,93.8,2.1,0,1,not recommended
+41,Accounting+,1797,1.33,6124,18.1,3.7,1,2,recommended
+42,ACT IT OUT! A Game of Charades,380,1.21,2421,58.7,2,0,1,not recommended
+43,Active Neurons - Puzzle Game,1373,1.03,758,92.6,2,1,2,not recommended
+44,Active Neurons - Puzzle Game (EU),1364,1.02,1012,94.3,2.1,0,1,not recommended
+45,Active Soccer 2 DX (EU),444,1.56,917,29.3,2.5,6,8,not recommended
+46,Adam's Venture: Origins,1417,1.07,9678,84.3,2.3,3,4,not recommended
+47,Adventure Time: Finn and Jake Investigations,1559,1.21,4745,58.7,3.1,6,8,recommended
+48,Adventure Time: Pirates of the Enchiridion,1997,1.48,6238,39.4,3,8,10,not recommended
+49,Adventures of Pip,520,1.65,1178,26.8,3.8,6,8,recommended
+50,AER - Memories of Old,1373,1.09,2176,81,3.3,3,4,recommended
+51,AER - Memories of Old (EU),1364,1.08,2633,81.8,2.8,2,3,not recommended
+52,Aerial Life,304,1.01,427,97.2,1.5,0,1,not recommended
+53,Afro Samurai 2: Revenge of Kuma Volume 1,387,1.36,316,30.7,1.5,3,4,not recommended
+54,Agatha Christie - The ABC Murders,406,1.29,3276,24.9,3.1,6,8,recommended
+55,Agents of Mayhem,2684,2.03,14809,11.5,3.3,50,60,recommended
+56,AI: The Somnium Files,1606,1.27,2099,50.2,4.4,20,25,recommended
+57,Akiba's Trip: Undead & Undressed,2853,2.11,7112,15.4,3.6,15,20,recommended
+58,ALBEDO: Eyes From Outer Space,1345,1.05,3218,87.4,1.8,1,2,not recommended
+59,Albedo: Eyes from Outer Space (EU),1338,1.05,3337,88.3,1.2,2,3,not recommended
+60,Alien: Isolation,3109,2.3,55041,9.1,4.1,30,35,recommended
+61,Alienation,3015,2.12,35365,4.7,3.9,50,60,recommended
+62,Alphaset by POWGI,1360,1.03,531,91.7,3.5,0,1,recommended
+63,Alphaset by POWGI (EU),1363,1.03,792,91.9,2.8,0,1,not recommended
+64,Amaekata wa Kanojo Nari ni.,1277,1.01,899,96.9,2.1,0,1,not recommended
+65,Amamane,318,1.01,389,97.4,4,0,1,recommended
+66,Amnesia: Collection,3579,2.65,23341,2,3.3,15,20,recommended
+67,Among the Sleep,436,1.53,4640,32.8,3.3,3,4,recommended
+68,Another World: 20th Anniversary Edition,419,1.33,19007,42,3.1,1,2,recommended
+69,Anthem,3133,2.4,46185,6.9,3,50,60,not recommended
+70,anywhereVR,394,1.54,1391,30.3,1.8,8,10,not recommended
+71,Ao no Kanata no Four Rhythm HD Edition,1306,1.02,804,94.5,2.2,0,1,not recommended
+72,Ape Escape 2,724,2.3,11307,7,3.7,25,30,recommended
+73,Apex Legends,484,1.7,112119,20.5,3.9,60,80,recommended
+74,Apocalipsis: The Tree of the Knowledge of Good and Evil (EU),1504,1.11,300,78.7,1.8,3,4,not recommended
+75,Apotheon,3084,2.34,37211,15.3,3.2,12,15,recommended
+76,Aragami,2938,2.02,8538,4,3.6,15,20,recommended
+77,Arc the Lad: Twilight of the Spirits,2794,2.07,1975,18,4.3,40,50,recommended
+78,Arcade Archives A-JAX,302,1.06,864,81.8,2,0,1,not recommended
+79,Arcade Archives Armed F,313,1.1,568,71.1,2.7,0,1,not recommended
+80,Arcade Archives Atomic Robo-Kid,304,1.07,280,78.9,2.4,0,1,not recommended
+81,Arcade Archives Bomb Jack,289,1.02,966,93.7,2.7,0,1,not recommended
+82,Arcade Archives Bubble Bobble,327,1.15,2052,59.3,3.5,0,1,recommended
+83,Arcade Archives Buta san,290,1.02,1039,94.3,2.3,0,1,not recommended
+84,Arcade Archives City Connection,297,1.04,1091,87.5,2.4,0,1,not recommended
+85,Arcade Archives Contra,334,1.17,1858,61,3.3,0,1,recommended
+86,Arcade Archives Cosmo Police Galivan,300,1.05,786,85.1,2.1,0,1,not recommended
+87,Arcade Archives Crazy Climber,297,1.04,1327,87.3,1.6,0,1,not recommended
+88,Arcade Archives Crazy Climber 2,334,1.17,851,62.4,1.8,0,1,not recommended
+89,Arcade Archives Double Dragon,322,1.13,3294,67.5,2.9,0,1,not recommended
+90,Arcade Archives DOUBLE DRAGON II The Revenge,371,1.3,1353,50.1,3,0,1,not recommended
+91,Arcade Archives Exerion,291,1.02,1141,93.2,2,0,1,not recommended
+92,Arcade Archives Gradius,315,1.11,1691,71.6,2.9,0,1,not recommended
+93,Arcade Archives Gradius II,326,1.14,737,60.4,3.4,0,1,recommended
+94,Arcade Archives Ikki,292,1.02,793,92.1,2,0,1,not recommended
+95,Arcade Archives Karate Champ,322,1.13,1112,69.2,1.6,0,1,not recommended
+96,Arcade Archives Kid's Horehore Daisakusen,301,1.05,364,85.4,2.6,0,1,not recommended
+97,Arcade Archives Kiki Kaikai,319,1.12,437,69.3,2.4,0,1,not recommended
+98,Arcade Archives Life Force,321,1.13,999,63.4,3.2,0,1,recommended
+99,Arcade Archives Magmax,299,1.05,913,85.7,2.3,0,1,not recommended
+100,Arcade Archives Mat Mania Exciting Hour,315,1.1,1163,73.4,2.3,0,1,not recommended
+101,Arcade Archives Moon Cresta,302,1.06,1374,83.8,1.9,0,1,not recommended
+102,Arcade Archives Mr.Goemon,298,1.05,811,86.4,2.5,0,1,not recommended
+103,Arcade Archives Mutant Night,296,1.04,184,87.5,2.4,0,1,not recommended
+104,Arcade Archives Ninja-Kid,295,1.04,1291,87.7,2.4,0,1,not recommended
+105,Arcade Archives Ninja-Kid 2,294,1.03,1016,88,2.4,0,1,not recommended
+106,Arcade Archives NOVA2001,290,1.02,1246,93.7,2.5,0,1,not recommended
+107,Arcade Archives Raiders 5,296,1.04,698,89.4,2.1,0,1,not recommended
+108,Arcade Archives Renegade,327,1.15,1613,65,2.1,0,1,not recommended
+109,Arcade Archives Rygar,294,1.03,1358,86,2.4,0,1,not recommended
+110,Arcade Archives Scramble,293,1.03,803,91.2,2.6,0,1,not recommended
+111,Arcade Archives Shanghai III,309,1.08,729,78.3,2,0,1,not recommended
+112,Arcade Archives Shusse Ozumo,289,1.01,885,94,2,0,1,not recommended
+113,Arcade Archives Soldier Girl Amazon,309,1.08,457,75.1,1.9,0,1,not recommended
+114,Arcade Archives Solomon's Key,301,1.06,765,82.9,2.1,0,1,not recommended
+115,Arcade Archives Sunset Riders,345,1.21,495,49.5,5,1,2,recommended
+116,Arcade Archives Super Dodgeball,327,1.15,1393,65.8,2.2,0,1,not recommended
+117,Arcade Archives Terra Cresta,291,1.02,1608,91.5,2.4,0,1,not recommended
+118,Arcade Archives The Legend Of Kage,315,1.11,632,75.6,1.8,0,1,not recommended
+119,Arcade Archives TwinBee,302,1.06,694,80,2.8,0,1,not recommended
+120,Arcade Archives Wonder Boy,293,1.03,653,89.6,2.7,0,1,not recommended
+121,Arcade Classics Anniversary Collection,1748,1.39,872,43.3,3.9,8,10,recommended
+122,ARCADE GAME SERIES: DIG DUG,2042,1.51,10377,33,3.2,3,4,recommended
+123,ARCADE GAME SERIES: GALAGA,2281,1.69,10572,28.6,3.2,3,4,recommended
+124,ARCADE GAME SERIES: Ms. PAC-MAN,1793,1.33,8446,48.3,3.4,1,2,recommended
+125,ARCADE GAME SERIES: PAC-MAN,2123,1.57,15137,32.8,3.3,1,2,recommended
+126,ArcaniA: Gothic 4,3028,2.32,6885,9.7,3.1,40,50,recommended
+127,ARK: Survival Evolved,4957,2.87,39272,1.8,3.4,6,8,recommended
+128,Armikrog,407,1.29,1352,44,2.4,2,3,not recommended
+129,Asemblance,396,1.26,1508,43,2.5,0,1,not recommended
+130,Asemblance (EU),373,1.18,558,52.9,2.7,0,1,not recommended
+131,Asemblance: Oversight,353,1.12,310,71,2.4,1,2,not recommended
+132,Assassin's Creed Chronicles: China,740,2.35,12229,8.8,3.2,8,10,recommended
+133,Assassin's Creed Chronicles: India,590,1.87,2953,18.6,3.2,12,15,recommended
+134,Assassin's Creed Freedom Cry,547,1.92,55589,18.4,3.4,6,8,recommended
+135,Assassin's Creed II,1734,1.28,44732,44.1,4.4,20,25,recommended
+136,Assassin's Creed III Remastered,2464,1.91,27044,18.3,3.7,40,50,recommended
+137,Assassin's Creed IV: Black Flag,3177,1.96,122556,2.9,4.2,40,50,recommended
+138,Assassin's Creed Liberation Remastered,1670,1.26,9704,56.4,3.4,15,20,recommended
+139,Assassin's Creed Odyssey,3235,1.51,110770,10.8,4.4,80,100,recommended
+140,Assassin's Creed Origins,2582,1.46,121365,10.8,4.4,60,80,recommended
+141,Assassin's Creed Rogue Remastered,2051,1.52,16015,33.6,3.9,25,30,recommended
+142,Assassin's Creed Syndicate,2409,1.56,110174,9.4,4.1,35,40,recommended
+143,Assassin's Creed Unity,2519,1.66,124974,11.4,3.5,50,60,recommended
+144,Assassin's Creed Valhalla (PS4),3434,2.57,32611,6.9,4.2,150,200,recommended
+145,Assassin's Creed: Brotherhood,1798,1.36,30405,37,4.2,25,30,recommended
+146,Assassin's Creed: Revelations,1869,1.42,21641,36.3,4,25,30,recommended
+147,ASTRO BOT Rescue Mission,2655,1.97,20771,16.4,4.7,10,12,recommended
+148,Astrology and Horoscope Premium,303,1.01,476,94.7,1.5,0,1,not recommended
+149,Astrology and Horoscope Premium (EU),302,1.01,260,97.7,2.5,0,1,not recommended
+150,Atelier Firis: The Alchemist and the Mysterious Journey,1886,1.5,3995,35.4,3.5,40,50,recommended
+151,Atelier Sophie: The Alchemist of the Mysterious Book,2164,1.6,10925,28.6,3.9,40,50,recommended
+152,Attack of the Toy Tanks,1360,1.03,1964,90.6,1.3,0,1,not recommended
+153,Attack of the Toy Tanks (Asia),1334,1.01,847,96.7,1,0,1,not recommended
+154,Attack of the Toy Tanks (EU),1360,1.03,3071,90.8,1.6,0,1,not recommended
+155,Autumn's Journey (EU),1323,1,777,99.4,2.5,0,1,not recommended
+156,Aven Colony,2116,1.62,1778,27.4,3.8,20,25,recommended
+157,Awesome Pea,1608,1.19,761,68.7,1.6,2,3,not recommended
+158,Awesome Pea (EU),1577,1.17,782,71.5,2.2,1,2,not recommended
+159,Axiom Verge,3993,2.99,9166,6.7,4.2,25,30,recommended
+160,"Azayaka na Irodori no Naka de, Kimi Rashiku",303,1.01,616,97.7,2.4,0,1,not recommended
+161,Back in 1995 (EU),1427,1.08,912,81.9,1.8,1,2,not recommended
+162,Back to Bed,562,1.87,3003,16.9,2.8,2,3,not recommended
+163,Back to the Future: The Game - 30th Anniversary Edition,1698,1.26,10274,55.1,3.6,10,12,recommended
+164,Baseball Riot,510,1.7,940,22.7,3,6,8,not recommended
+165,Bastion,2977,2.21,23514,15.7,4,15,20,recommended
+166,BATMAN – The Telltale Series,1395,1.09,99794,74.1,3.8,1,2,recommended
+167,Batman: Arkham Knight,4835,2,174910,1.3,4.2,40,50,recommended
+168,Batman: Arkham VR,594,1.89,19074,16.4,3.9,3,4,recommended
+169,Batman: Return to Arkham - Arkham Asylum,2382,1.76,42126,17.3,4.5,15,20,recommended
+170,Batman: Return to Arkham - Arkham City,3888,2.23,30980,3.2,4.5,80,100,recommended
+171,Batman: The Enemy Within - The Telltale Series,1352,1.06,29593,81.4,4,8,10,recommended
+172,Battle Chasers: Nightwar,2999,2.27,8141,10.5,3.9,80,100,recommended
+173,Battle Trivia Knockout,349,1.16,846,53.9,2.4,0,1,not recommended
+174,Battle Trivia Knockout (EU),344,1.15,503,55.1,2.3,0,1,not recommended
+175,Battleborn,5346,3.56,14925,1.6,3.2,120,150,recommended
+176,Battlefield 1,4515,2.33,145216,2,4.2,35,40,recommended
+177,Battlefield 4,3972,2.14,133500,1.7,3.9,50,60,recommended
+178,Battlefield Hardline,5099,2.59,75536,0.4,3.5,40,50,recommended
+179,Battlefield V,2985,2.29,59841,8.5,3.6,35,40,recommended
+180,Batu Ta Batu,1430,1.06,489,80.2,3.5,0,1,recommended
+181,Beach Buggy Racing,2936,2.22,6640,12.5,3.2,60,80,recommended
+182,Bear With Me,1734,1.12,900,38.2,2.9,2,3,not recommended
+183,Beat Saber,3993,2.99,21750,5.4,4.7,20,25,recommended
+184,Beyond Eyes,373,1.18,2408,60,2.9,1,2,not recommended
+185,Beyond: Two Souls,2894,2.24,84884,11.3,3.9,20,25,recommended
+186,BFF or Die,1395,1.03,277,90.6,3,0,1,not recommended
+187,BFF or Die (EU),1388,1.03,319,93.7,2.5,0,1,not recommended
+188,Big Dipper,287,1.01,258,98.1,3,0,1,not recommended
+189,BioShock 2 Remastered,2831,1.72,37843,9.2,4.2,15,20,recommended
+190,BioShock Infinite: The Complete Edition,4413,2.28,55085,4.5,4.3,25,30,recommended
+191,BioShock Remastered,3324,2.15,82257,5.1,4.5,15,20,recommended
+192,Bird Game +,1326,1.03,2108,92.4,1.4,0,1,not recommended
+193,Bird Game + (Asia),1306,1.01,970,96.5,1.1,0,1,not recommended
+194,Bird Game + (EU),1323,1.03,3041,92.9,1.4,0,1,not recommended
+195,Birthday Of Midnight,1345,1.02,851,93.9,3.1,0,1,recommended
+196,Birthday Of Midnight (EU),1341,1.02,1462,94.7,2.6,0,1,not recommended
+197,Black & White Bushido,1325,1.05,2644,88,2.1,0,1,not recommended
+198,Black & White Bushido (EU),1313,1.04,2506,89.9,2.2,0,1,not recommended
+199,Black Mirror,1536,1.22,5239,64.5,2.9,4,5,not recommended
+200,Black The Fall,1399,1.06,1583,87.6,2.7,2,3,not recommended
+201,Black The Fall (EU),1405,1.06,1981,86.6,2.8,2,3,not recommended
+202,Blackwood Crossing,1373,1.05,1963,86.3,3.4,1,2,recommended
+203,Blackwood Crossing (EU),1379,1.06,2874,84.6,3.4,1,2,recommended
+204,BlazBlue Cross Tag Battle,2342,1.77,8290,18.3,4.1,6,8,recommended
+205,Blind Men,1331,1.01,1932,98.3,1.6,0,1,not recommended
+206,Blind Men (Asia),1329,1.01,825,98.7,2.2,0,1,not recommended
+207,Blind Men (EU),1334,1.01,2631,97.8,2.1,0,1,not recommended
+208,Blindfold VR,358,1.19,272,55.9,1.8,0,1,not recommended
+209,Blood & Truth,4861,3.27,12604,0.8,4.2,20,25,recommended
+210,Bloodborne,2153,1.41,163572,24.4,4.7,60,80,recommended
+211,Bloodstained: Curse of the Moon,499,1.66,5700,17.2,4.1,8,10,recommended
+212,Bloodstained: Ritual of the Night,1962,1.45,13446,33.2,4.4,30,35,recommended
+213,Bloodstained: Ritual of the Night (EU),1974,1.46,7038,33.1,4.4,30,35,recommended
+214,Blue Reflection,2014,1.49,4905,36,3.5,35,40,recommended
+215,Blues and Bullets,1442,1.12,1700,0,3.4,1,2,recommended
+216,Boku to Kanojo no Kenshuu Nisshi,306,1.02,663,95.8,2,0,1,not recommended
+217,Bonfire,1441,1.13,441,66.9,3.5,0,1,recommended
+218,Borderlands 2,4709,2.23,128033,3.9,4.4,80,100,recommended
+219,Borderlands 3 (PS4),4339,2,79667,0.5,4.1,50,60,recommended
+220,Borderlands: Game of the Year Edition,3529,1.72,25273,6.7,4.4,20,25,recommended
+221,Borderlands: The Pre-Sequel,4301,2.58,98026,4.7,3.8,60,80,recommended
+222,Bouncy Bullets,1346,1.02,2685,94.5,1.6,0,1,not recommended
+223,Bouncy Bullets (Asia),1332,1.01,1141,97.6,2.4,0,1,not recommended
+224,Bouncy Bullets (EU),1342,1.02,3566,95.3,2.3,0,1,not recommended
+225,Breeder Homegrown: Director's Cut,1329,1.03,756,93.3,1.2,0,1,not recommended
+226,Breeder Homegrown: Director's Cut (EU),1321,1.02,885,94.1,1.6,0,1,not recommended
+227,Bridge Constructor,1741,1.35,5450,45.6,2.8,10,12,not recommended
+228,Bridge Constructor Portal,1921,1.51,1621,36.2,3.1,15,20,recommended
+229,BRIKS,1436,1.13,694,74.5,2.1,5,6,not recommended
+230,Broken Age,2958,2.19,36104,11.8,3.4,10,12,recommended
+231,Broken Sword 5 – The Serpent's Curse,1561,1.2,5943,59.7,3.7,6,8,recommended
+232,Brothers: A Tale of Two Sons,375,1.19,7562,63.7,3.9,2,3,recommended
+233,Bucket Knight,1384,1.04,1002,91.8,3.4,0,1,recommended
+234,Bucket Knight (EU),1379,1.03,1379,93,2.3,0,1,not recommended
+235,Bully,1945,1.49,23821,38.4,4.3,20,25,recommended
+236,Burly Men at Sea,1470,1.11,26933,77.1,2.7,1,2,not recommended
+237,Burnout Paradise Remastered,4575,2.24,19628,4.2,4.3,20,25,recommended
+238,Burnout Paradise Remastered (EU),3809,1.87,24623,6.3,4.2,15,20,recommended
+239,Butter & Friends: Babysitter Sim,1445,1.12,1539,68.6,1.7,0,1,not recommended
+240,Call of Cthulhu,1985,1.5,8081,25.5,3.6,12,15,recommended
+241,Call of Duty: Advanced Warfare,4896,2.44,109190,0.8,3.6,20,25,recommended
+242,Call of Duty: Black Ops 4,8261,3.96,88620,0.8,3.5,200,700,recommended
+243,Call of Duty: Black Ops III,7300,3.29,192528,0.5,3.5,150,200,recommended
+244,Call of Duty: Ghosts,4922,2.33,74992,1.6,3.5,20,25,recommended
+245,Call of Duty: Modern Warfare,2241,1.72,88319,5.5,4.1,10,12,recommended
+246,Call of Duty: Modern Warfare 2 Campaign Remastered,2453,1.82,73056,19.7,4.2,15,20,recommended
+247,Call of Duty: Modern Warfare Remastered,2401,1.78,124886,21.6,4.3,15,20,recommended
+248,Call of Duty: WWII,7360,3.46,154762,0.6,3.6,35,40,recommended
+249,Candle: The Power of the Flame,1606,1.27,697,57.5,3.9,5,6,recommended
+250,Capcom Beat 'Em Up Bundle,450,1.43,5177,20.3,3.8,6,8,recommended
+251,CARAVAN STORIES (JP),294,1.09,2111,71.8,3,0,1,not recommended
+252,Castle Pals,1311,1.02,940,94.7,1.2,0,1,not recommended
+253,Castle Pals (Asia),1300,1.01,403,98,1.2,0,1,not recommended
+254,Castle Pals (EU),1317,1.02,1216,93.4,1.5,0,1,not recommended
+255,Castlevania Requiem,2324,1.72,16223,22.2,4.5,15,20,recommended
+256,CAT Interstellar,322,1.02,370,90.5,2.3,0,1,not recommended
+257,Cat Quest,1456,1.09,7892,79.2,3.9,10,12,recommended
+258,Cat Quest (JP),1377,1.03,243,91.8,3.5,6,8,recommended
+259,Cat Quest II,1514,1.2,4048,63.6,3.8,8,10,recommended
+260,Catlateral Damage,2057,1.58,7788,33.1,2.9,8,10,not recommended
+261,CATTCH,1371,1.02,229,96.9,4.2,0,1,recommended
+262,Cel Damage HD,512,1.63,5985,27.3,3.2,2,3,recommended
+263,Celeste,2117,1.57,8366,31.1,4.3,20,25,recommended
+264,Chaos on Deponia,1500,1.11,1074,77.6,3.3,3,4,recommended
+265,Chaos on Deponia (EU),1567,1.16,2411,68,3.5,3,4,recommended
+266,Chaos;Child: Love Chu*Chu!!,1424,1.05,1263,88.4,3.1,1,2,recommended
+267,Chickens On The Road,1353,1,2803,99.5,1.6,0,1,not recommended
+268,Chickens On The Road (Asia),1352,1,701,99.6,3,0,1,not recommended
+269,Chickens On The Road (EU),1352,1,3968,99.5,1.4,0,1,not recommended
+270,Child of Light,425,1.35,46238,31.6,4,10,12,recommended
+271,Children of Morta,2083,1.6,2900,26.2,4,20,25,recommended
+272,Chop is Dish,1418,1.05,781,88.2,0.5,0,1,not recommended
+273,Christmas Break,1282,1.02,298,92.6,3.5,0,1,recommended
+274,Christmas Break Head to Head (EU),1315,1.02,481,91.5,2.5,0,1,not recommended
+275,ChromaGun (EU),1414,1.1,704,78.1,1.9,3,4,not recommended
+276,Cities: Skylines,9133,3.48,29604,0.2,3.9,150,200,recommended
+277,Citizens of Earth,693,2.2,2095,14.1,3.5,20,25,recommended
+278,Claire,2623,2.03,12761,20.6,2.9,3,4,not recommended
+279,Clash Force,1383,1.02,765,94.6,2.8,0,1,not recommended
+280,Clash Force (EU),1392,1.03,1028,93.2,1.8,0,1,not recommended
+281,Clockwork Tales: Of Glass and Ink,1328,1.05,6343,84.7,3,2,3,not recommended
+282,Coaster (EU),323,1.08,60,80,2.2,0,1,not recommended
+283,CODE VEIN,2544,1.88,22970,13.1,4.1,60,80,recommended
+284,Code: Realize ~Bouquet of Rainbows~,1409,1.08,694,82.4,3.7,4,5,recommended
+285,Code: Realize ~Wintertide Miracles~,1376,1.04,751,90,1.9,1,2,not recommended
+286,Coffee Talk,1566,1.23,955,57.5,3.9,6,8,recommended
+287,Coffin Dodgers,1414,1.08,10238,82.7,2.4,3,4,not recommended
+288,Color Guardians,2008,1.52,18134,35.7,2.9,8,10,not recommended
+289,Color Slayer,1373,1.06,2022,85.3,1.3,4,5,not recommended
+290,Conan Exiles,1897,1.47,55781,35.9,2.3,1,2,not recommended
+291,Concept Destruction (PS4),1390,1.03,1259,93,1.5,0,1,not recommended
+292,Concept Destruction (PS4) (EU),1385,1.03,1953,93.2,2.4,0,1,not recommended
+293,Concrete Genie,1798,1.29,12948,11.6,4.1,6,8,recommended
+294,Contrast,467,1.48,26636,23.7,3.2,3,4,recommended
+295,Contrast (EU),447,1.42,28436,28.4,3.3,6,8,recommended
+296,Contrast (JP),424,1.35,2399,36.9,4,2,3,recommended
+297,Control,2772,1.59,53720,3.7,4,20,25,recommended
+298,Corridor Z,539,1.71,1839,14.2,3,15,20,not recommended
+299,Cosmic Star Heroine,1988,1.52,3093,37.3,3.9,10,12,recommended
+300,Costume Quest 2,413,1.31,4008,30.9,3.7,6,8,recommended
+301,CounterSpy,854,2.71,44761,4.8,3.4,12,15,recommended
+302,Crash Bandicoot,2816,2.04,121707,5.5,4.1,20,25,recommended
+303,Crash Bandicoot 2: Cortex Strikes Back,2307,1.81,77099,19.3,4.3,12,15,recommended
+304,Crash Bandicoot: Warped,2247,1.7,69991,10.6,4.4,15,20,recommended
+305,Crash Dummy (EU),1679,1.26,562,60.9,1.5,4,5,not recommended
+306,Crash Team Racing Nitro-Fueled,2982,2.28,54908,8.8,4.2,50,60,recommended
+307,Croc's World,335,1.17,464,59.3,1,1,2,not recommended
+308,Crossovers by POWGI,1357,1.03,1235,89.6,2.4,2,3,not recommended
+309,Crossovers by POWGI (EU),1350,1.02,1807,91.8,2.8,1,2,not recommended
+310,Crypt of the Serpent King,1556,1.24,831,61.4,1.7,3,4,not recommended
+311,Crypto by POWGI,1354,1.03,815,94,2.5,0,1,not recommended
+312,Crypto by POWGI (EU),1348,1.02,1100,94.5,2.8,0,1,not recommended
+313,CRYSTAR,2089,1.58,961,25.7,3.9,50,60,recommended
+314,Cybarian: The Time Travelling Warrior,1380,1.05,1998,86.4,2.1,0,1,not recommended
+315,Cybarian: The Time Travelling Warrior (Asia),1337,1.01,927,96,1.8,0,1,not recommended
+316,Cybarian: The Time Travelling Warrior (EU),1383,1.05,2722,85.6,1.9,0,1,not recommended
+317,Cyberdimension Neptunia: 4 Goddesses Online,1936,1.43,3139,37.8,3.7,20,25,recommended
+318,Cyberdimension Neptunia: 4 Goddesses Online (EU),1794,1.33,1584,45.7,3.3,25,30,recommended
+319,Cyberpunk 2077,3596,2.79,55409,6.7,3.8,80,100,recommended
+320,D.S. -Dal Segno-,1346,1.02,592,95.3,0.7,0,1,not recommended
+321,Daggerhood,1386,1.03,3054,92.2,2.3,0,1,not recommended
+322,Daggerhood (Asia),1365,1.01,1352,96.8,2.2,0,1,not recommended
+323,Daggerhood (EU),1388,1.03,4201,91.5,2.4,0,1,not recommended
+324,Danganronpa 1 & 2 Reload,2832,2.1,8180,12.7,4.6,80,100,recommended
+325,Danganronpa Another Episode: Ultra Despair Girls,2249,1.68,3066,27.1,4,30,35,recommended
+326,Danganronpa V3: Killing Harmony,3350,2.48,4474,7.3,4.2,80,100,recommended
+327,Danger Zone,641,2.03,3789,9.1,3.2,4,5,recommended
+328,Dark Arcana: The Carnival,1411,1.12,3516,72,3,4,5,not recommended
+329,Dark Cloud,2000,1.55,8754,30.6,4.3,20,25,recommended
+330,Dark Cloud 2,4051,3.1,8547,5.8,4.2,100,120,recommended
+331,Dark Mystery (EU),351,1.23,196,61.2,1.8,3,4,not recommended
+332,Dark Sauce (EU),1362,1.01,564,95.9,1,0,1,not recommended
+333,Dark Souls II: Scholar of the First Sin,2234,1.65,64155,21.7,4.4,80,100,recommended
+334,Dark Souls III,2123,1.57,116622,22.6,4.6,80,100,recommended
+335,Dark Souls: Remastered,2110,1.56,50716,27.9,4.7,60,80,recommended
+336,Darksiders Genesis,2091,1.55,6359,30.8,3.8,30,35,recommended
+337,Darksiders II Deathinitive Edition,3302,2.45,63251,9.9,3.7,35,40,recommended
+338,Darksiders III,3638,1.99,45633,3.8,3.8,35,40,recommended
+339,Darksiders Warmastered Edition,2147,1.59,25788,25.6,4.1,20,25,recommended
+340,Day of the Tentacle Remastered,1648,1.29,44309,54,3.8,2,3,recommended
+341,Daylight,617,2.16,3639,5.6,3,6,8,not recommended
+342,Days Gone,4788,2.68,121982,1.1,4.2,60,80,recommended
+343,Dead by Daylight 1/2 (PS4),8326,3.21,52589,0.4,3.9,200,700,recommended
+344,Dead Island,3120,2.14,31616,6.4,3.7,40,50,recommended
+345,Dead Island Riptide,2515,1.95,15215,18.5,3.5,25,30,recommended
+346,Dead Nation: Apocalypse Edition,4475,3.32,82974,4.9,3.5,30,35,recommended
+347,Dead or Alive 5 Last Round,2529,1.89,17610,14.3,3.9,15,20,recommended
+348,DEAD OR ALIVE 6,2283,1.73,7832,18.7,3.8,15,20,recommended
+349,DEAD OR ALIVE Xtreme 3 Fortune,2610,1.78,7467,3.1,3.8,40,50,recommended
+350,Dead or School,1857,1.38,1114,42.9,3.5,20,25,recommended
+351,Dead Rising,3749,2.84,13830,6.3,4.2,40,50,recommended
+352,Dead Secret (EU),341,1.08,167,71.9,2.9,1,2,not recommended
+353,Dead Synchronicity: Tomorrow Comes Today,1341,1.03,4132,94,2.9,1,2,not recommended
+354,Deadpool,2787,2.06,23569,15.3,3.7,15,20,recommended
+355,Dear Esther: Landmark Edition,358,1.19,5963,40.6,3.4,2,3,recommended
+356,DEATH STRANDING,2367,1.77,99448,15.7,4.4,100,120,recommended
+357,Deep Space Rush,1361,1.01,2563,98.2,1.8,0,1,not recommended
+358,Deep Space Rush (Asia),1357,1.01,993,98.8,2.3,0,1,not recommended
+359,Deep Space Rush (EU),1361,1.01,3393,98.3,1.9,0,1,not recommended
+360,Defense Grid 2,1921,1.42,4903,33.2,4,25,30,recommended
+361,Deiland (EU),1600,1.27,1135,54.7,3.1,15,20,recommended
+362,Deliriant,305,1.02,2060,94.5,1.3,0,1,not recommended
+363,Delta Squad,1379,1.04,914,86.3,1.2,1,2,not recommended
+364,Delta Squad (EU),1366,1.04,1063,89.1,1.5,0,1,not recommended
+365,Demetrios - The BIG Cynical Adventure,1404,1.08,1271,83.6,3,5,6,not recommended
+366,Demetrios - The BIG Cynical Adventure (EU),1404,1.08,1952,82.3,3.3,3,4,recommended
+367,Deployment,411,1.37,114,45.6,2.5,1,2,not recommended
+368,Deponia,1612,1.19,9031,66.3,3.3,5,6,recommended
+369,Deponia Doomsday,1573,1.17,1421,61.5,3,8,10,not recommended
+370,Déraciné,1502,1.19,2622,62.4,3.5,5,6,recommended
+371,Desert Child,2684,2.03,1075,20,2.9,6,8,not recommended
+372,Destroy All Humans!,2184,1.69,7139,20,3.5,15,20,recommended
+373,Destroy All Humans! (PS2),2613,2,16727,20.7,3.5,12,15,recommended
+374,Destroy All Humans! 2,2464,1.91,8668,25.2,3.5,12,15,recommended
+375,Detroit: Become Human,2221,1.68,162329,18,4.4,20,25,recommended
+376,Deus Ex: Mankind Divided,5827,3.08,68070,1.7,3.9,40,50,recommended
+377,Devil May Cry 2 HD,2829,2.1,6878,14.6,2.5,15,20,not recommended
+378,Devil May Cry 4 Special Edition,4938,3.74,25831,4.3,4.2,25,30,recommended
+379,Devil May Cry HD,3287,2.43,12654,9.4,4.1,20,25,recommended
+380,Devious Dungeon,1412,1.05,1802,88.2,3.3,5,6,recommended
+381,Devious Dungeon (EU),1398,1.04,2972,90.3,2.9,3,4,not recommended
+382,Devious Dungeon 2,1434,1.06,1004,83.1,2.6,8,10,not recommended
+383,Devious Dungeon 2 (EU),1436,1.06,1635,82.3,2.4,4,5,not recommended
+384,Diablo III: Reaper of Souls - Ultimate Evil Edition,2582,1.69,105161,4.4,4.4,60,80,recommended
+385,Digimon Story Cyber Sleuth,2635,2,23244,10.7,4.1,80,100,recommended
+386,Digimon Story: Cyber Sleuth - Hacker's Memory,2821,2.21,8697,11,4.1,80,100,recommended
+387,DiRT 4,3094,2.32,15480,9.2,4,50,60,recommended
+388,DiRT 5 (PS4),2105,1.63,1429,22.5,3.7,15,20,recommended
+389,DiRT Rally 2.0,6457,3.21,18912,0.2,3.9,40,50,recommended
+390,Disc Jam,587,1.96,50160,9.9,2.8,8,10,not recommended
+391,Discovery (EU),400,1.4,601,32.9,1.9,0,1,not recommended
+392,Disgaea 5: Alliance of Vengeance,3145,2.33,9349,9.1,4.4,100,120,recommended
+393,Dishonored 2,2867,2.12,53926,13.2,4.1,30,35,recommended
+394,Dishonored Definitive Edition,5119,2.67,35991,1.1,4.1,25,30,recommended
+395,Dishonored: Death of the Outsider,1876,1.45,12545,37,4,12,15,recommended
+396,Disney Classic Games: Aladdin and The Lion King,1464,1.16,3991,69.5,3.2,0,1,recommended
+397,Disney Infinity 3.0 Edition,2993,2.04,9205,2.3,3.6,15,20,recommended
+398,DISTRAINT: Deluxe Edition,1398,1.04,730,91.5,1.8,1,2,not recommended
+399,DISTRAINT: Deluxe Edition (EU),1398,1.04,922,91.6,1.8,1,2,not recommended
+400,Divinity: Original Sin - Enhanced Edition,4100,3.07,18332,4.1,3.9,100,120,recommended
+401,DmC: Devil May Cry: Definitive Edition,3189,2.36,29021,10.4,4,40,50,recommended
+402,Doki-Doki Universe,595,1.89,17826,20.2,3,5,6,not recommended
+403,Don't Knock Twice,1483,1.14,4218,71.3,2.2,1,2,not recommended
+404,Donut Break (EU),1298,1.03,472,89.8,1,1,2,not recommended
+405,Donut County,1432,1.12,7058,74.8,3.9,2,3,recommended
+406,Donut County (EU),1382,1.08,5397,82,3.5,2,3,recommended
+407,Doodle Devil,356,1.13,1099,73.2,2.5,0,1,not recommended
+408,Doodle Devil (EU),351,1.11,1173,75.6,2.4,0,1,not recommended
+409,Doodle God,360,1.2,1258,60.7,3,1,2,not recommended
+410,Doodle God (EU),358,1.19,1524,61.9,2.7,1,2,not recommended
+411,Doodle Kingdom,407,1.29,633,42.7,2.2,8,10,not recommended
+412,Doodle Kingdom (EU),389,1.23,827,49.5,1.7,6,8,not recommended
+413,DOOM (2016),5183,2.74,106385,1.7,4.3,20,25,recommended
+414,DOOM 64,531,1.77,7569,21.7,3.7,1,2,recommended
+415,DOOM Eternal,2995,2.04,36486,1.7,4.2,20,25,recommended
+416,DOOM VFR,626,1.99,12288,7.6,3.6,3,4,recommended
+417,Downwell,5965,4.57,27491,2.9,3.1,6,8,recommended
+418,Dragon Age: Inquisition,3783,2.1,103990,2,4.2,80,100,recommended
+419,Dragon Ball XenoVerse,3250,2.41,48139,5.6,3.6,80,100,recommended
+420,Dragon Ball Xenoverse 2,3858,2.26,36278,1.1,4,50,60,recommended
+421,Dragon Ball Z: Kakarot,1848,1.37,32122,40.3,4.1,40,50,recommended
+422,Dragon Fantasy Book II,1874,1.42,1627,44.7,3.5,15,20,recommended
+423,Dragon Quest Builders,2723,2.16,25795,14.9,4.1,35,40,recommended
+424,Dragon Quest Builders 2,2119,1.57,10586,27.1,4.3,50,60,recommended
+425,Dragon Quest Heroes: The World Tree's Woe and the Blight Below,2766,2.05,22891,14.2,3.8,60,80,recommended
+426,Dragon Quest XI: Echoes of an Elusive Age,2215,1.64,33392,23.6,4.5,100,120,recommended
+427,Dragon's Crown,3346,2.48,60676,9.2,3.9,60,80,recommended
+428,Dragon's Dogma: Dark Arisen,3071,2.33,21709,8.9,4.5,80,100,recommended
+429,Dream C Club: HostGirls On Stage,336,1.12,7239,77.3,2.5,0,1,not recommended
+430,Dreaming Canvas,320,1.01,338,96.2,1,0,1,not recommended
+431,Dreaming Canvas (EU),321,1.02,476,95.2,1,0,1,not recommended
+432,DRIVECLUB,12017,2.47,138550,2.6,3.7,40,50,recommended
+433,DRIVECLUB BIKES,3973,1.88,16186,9.5,4.1,15,20,recommended
+434,Driveclub VR,4849,3.63,11251,3.8,3.9,25,30,recommended
+435,Drowning,1291,1.02,4214,95,1.7,0,1,not recommended
+436,Drowning (EU),1287,1.02,5073,95.4,1.6,0,1,not recommended
+437,Drowning (HK/TW),1282,1.02,270,96.3,5,0,1,recommended
+438,DUCATI - 90th Anniversary,1601,1.23,2598,52.9,2.9,15,20,not recommended
+439,Duck Souls+,1430,1.06,901,88.1,2.8,0,1,not recommended
+440,Duck Souls+ (Asia),1382,1.02,403,94.8,1,0,1,not recommended
+441,Duck Souls+ (EU),1439,1.07,1453,86.9,2.6,0,1,not recommended
+442,Duke Nukem 3D: 20th Anniversary Edition World Tour,1689,1.28,14323,55.9,3.5,1,2,recommended
+443,Dungeon Punks,3095,2.37,15536,13.3,2.9,20,25,not recommended
+444,Dungeons 2,2035,1.58,2498,31.1,3.7,25,30,recommended
+445,Dust: An Elysian Tail,2790,2.11,60436,15,3.8,12,15,recommended
+446,Dying Light,3822,2.16,132269,1.1,4,40,50,recommended
+447,Dying: Reborn,1428,1.06,3386,86.1,2.3,1,2,not recommended
+448,Dying: Reborn (EU),1396,1.03,2726,91.2,2.2,1,2,not recommended
+449,Dying: Reborn (JP),1394,1.03,906,90.7,1.8,1,2,not recommended
+450,Dying: Reborn VR,416,1.32,1918,48,2.8,1,2,not recommended
+451,Dynasty Warriors 9,2420,1.81,9757,19,3,100,120,not recommended
+452,EA SPORTS Rory McIlroy PGA TOUR,2619,2.03,9810,12.2,3.5,25,30,recommended
+453,EA SPORTS UFC 2,4182,3.13,29429,3.3,3.6,25,30,recommended
+454,Earth Defense Force 4.1: The Shadow of New Despair,6901,5.11,5003,1.8,4,200,700,recommended
+455,Eekeemoo - Splinters of Dark Shard (EU),1467,1.09,1912,81.3,1.6,3,4,not recommended
+456,eFootball PES 2020 (EU),2697,2.02,8867,12,3.8,25,30,recommended
+457,Energy Balance,1531,1.17,1847,70,2,2,3,not recommended
+458,Energy Balance (EU),1511,1.16,1691,72.4,2.2,2,3,not recommended
+459,Energy Balance (Vita),1443,1.11,676,79.7,1.4,2,3,not recommended
+460,Energy Cycle,1281,1.02,8083,96.2,2,0,1,not recommended
+461,Energy Cycle (Asia),1274,1.01,1400,97.4,2.1,0,1,not recommended
+462,Energy Cycle (EU),1282,1.02,8406,96,1.9,0,1,not recommended
+463,Energy Cycle Edge,1325,1.03,1351,93.7,1.3,1,2,not recommended
+464,Energy Cycle Edge (Asia),1311,1.02,901,96.3,0.5,1,2,not recommended
+465,Energy Cycle Edge (EU),1327,1.03,1246,93.5,1.4,1,2,not recommended
+466,Energy Invasion,1389,1.09,3381,80.4,2,3,4,not recommended
+467,Energy Invasion (EU),1375,1.08,2720,82.1,1.8,2,3,not recommended
+468,Enigmatis 2: The Mists of Ravenwood,1490,1.12,3306,71.5,3.3,6,8,recommended
+469,Enigmatis 3: The Shadow of Karkhala,1426,1.07,1537,80.6,3.4,4,5,recommended
+470,Enigmatis: The Ghosts of Maple Creek,1413,1.1,5139,74.6,3.2,5,6,recommended
+471,Enter the Gungeon,4139,2.87,17157,3.3,4.1,80,100,recommended
+472,Epic Word Search Collection,1368,1.05,817,88.5,2.2,1,2,not recommended
+473,Epic Word Search Collection (EU),1363,1.04,1052,89.5,3,1,2,not recommended
+474,Epic Word Search Collection 2,1351,1.04,493,91.5,2.8,1,2,not recommended
+475,Epic Word Search Collection 2 (EU),1342,1.03,645,93,2.5,1,2,not recommended
+476,Erica,2026,1.57,7349,32.6,3.2,8,10,recommended
+477,Erica (EU),2023,1.57,14702,32.1,3.2,8,10,recommended
+478,Ether One,2513,1.99,39779,23.2,2.7,6,8,not recommended
+479,Eventide 2: Sorcerer's Mirror,1370,1.05,2000,85.7,3.3,3,4,recommended
+480,Eventide 3: Legacy of Legends,1348,1.06,1264,83.8,3.3,3,4,recommended
+481,Eventide: Slavic Fable,1426,1.07,3864,81.7,3.3,3,4,recommended
+482,Everybody's Golf,4369,3.43,20918,4,4,50,60,recommended
+483,Everybody's Gone to the Rapture,1818,1.44,44301,40.8,3.3,8,10,recommended
+484,Expand,337,1.18,425,65.6,3.3,1,2,recommended
+485,Explosive Jake (EU),1482,1.1,651,81.7,0.5,1,2,not recommended
+486,F1 2016,2548,1.91,8877,12.9,4.2,25,30,recommended
+487,F1 2018,2513,1.88,6926,14.2,4.3,40,50,recommended
+488,F1 2020,2754,2.04,7710,11.3,4.4,30,35,recommended
+489,FAHRENHEIT - Indigo Prophecy,2385,1.89,3703,16.4,3.7,15,20,recommended
+490,Fairy Fencer F: Advent Dark Force,2838,2.1,4684,15.4,3.8,40,50,recommended
+491,FAIRY TAIL,1677,1.33,3109,45.5,3.8,40,50,recommended
+492,Fall Guys: Ultimate Knockout,6344,4.86,168542,0.9,3.8,30,35,recommended
+493,Fallout 4,3311,1.75,170083,3.5,4.2,60,80,recommended
+494,Fallout Shelter,2259,1.79,36513,22.4,3.5,60,80,recommended
+495,Far Cry 3 Classic Edition,1760,1.4,39713,43.7,4,20,25,recommended
+496,Far Cry 4,2321,1.5,133116,7.5,4.1,25,30,recommended
+497,Far Cry 5,3777,1.92,113871,2.4,4,40,50,recommended
+498,Far Cry New Dawn,1886,1.4,38080,33.7,3.8,20,25,recommended
+499,Far Cry Primal,1845,1.37,90785,40.5,3.8,20,25,recommended
+500,Farm Together,2074,1.37,1736,23.5,4.4,80,100,recommended
+501,Farming Simulator 15 (2015),1870,1.48,5362,32.5,3.7,25,30,recommended
+502,Farming Simulator 19,2400,1.9,12965,20.1,3.3,60,80,recommended
+503,Fat Princess Adventures,2930,2.17,11085,16.3,3.6,20,25,recommended
+504,Fate/EXTELLA: The Umbral Star,2769,2.05,8642,11.2,3.9,50,60,recommended
+505,Fated: The Silent Oath,373,1.18,860,66.2,3.2,1,2,recommended
+506,Fe,2030,1.61,5205,31.5,3.5,10,12,recommended
+507,Fear Effect Sedna,2288,1.79,1172,27.2,1.8,6,8,not recommended
+508,Feather,1315,1.02,854,93.9,2.2,0,1,not recommended
+509,Fez,711,2.26,57752,13.2,3.6,6,8,recommended
+510,FIFA 14,2751,2.13,45845,9.5,3.8,35,40,recommended
+511,FIFA 15,3173,2.46,65472,4.3,3.8,20,25,recommended
+512,FIFA 16,3177,2.46,67700,5.1,3.8,35,40,recommended
+513,FIFA 17,3370,2.55,69911,4.3,3.7,50,60,recommended
+514,FIFA 18,3098,2.35,67123,6.1,3.6,40,50,recommended
+515,Fifty Words by POWGI,1376,1.05,907,85.9,2.8,1,2,not recommended
+516,Fifty Words by POWGI (EU),1378,1.06,1368,85.2,2.9,0,1,not recommended
+517,Final Fantasy IX,3140,2.33,17104,9.8,4.6,60,80,recommended
+518,Final Fantasy Type-0 HD,2189,1.66,43090,24.4,3.6,20,25,recommended
+519,Final Fantasy VII,2160,1.62,42574,30.6,4.6,40,50,recommended
+520,Final Fantasy VII Remake,2334,1.73,98925,18.1,4.6,60,80,recommended
+521,Final Fantasy VIII Remastered,1994,1.48,18297,36.8,4.5,30,35,recommended
+522,Final Fantasy X HD Remaster,2708,2.1,75858,13.9,4.5,100,120,recommended
+523,Final Fantasy X-2 HD Remaster,2853,2.21,23809,14.2,4,80,100,recommended
+524,Final Fantasy XII: The Zodiac Age,2804,2.08,39228,14.2,4.4,80,100,recommended
+525,Final Fantasy XV,6055,2.33,63532,0.6,4.1,60,80,recommended
+526,Final Fantasy XV (EU),5630,2.17,63641,0.8,4,60,80,recommended
+527,Final Horizon,2419,1.61,9039,9.2,3.3,6,8,recommended
+528,Firewatch,489,1.25,15419,17.8,4,3,4,recommended
+529,Firewatch (EU),470,1.21,19372,22.9,3.9,3,4,recommended
+530,Flame Over,7313,5.42,10389,1.7,2.5,15,20,not recommended
+531,Floor Plan,430,1.37,898,32.4,3.9,0,1,recommended
+532,flOw,897,2.72,18751,3.8,3,6,8,not recommended
+533,Flower,614,1.95,34050,14.6,3.8,5,6,recommended
+534,Football Game,1377,1.02,1551,95,1.2,0,1,not recommended
+535,Football Game (EU),1374,1.02,2019,95.8,1.4,0,1,not recommended
+536,Forgotton Anne,1921,1.42,1851,38.6,3.9,10,12,recommended
+537,forma.8,2909,2.23,15539,17.8,2.7,6,8,not recommended
+538,Fortnite (PS4),8637,6.4,23734,0.6,4.1,200,700,recommended
+539,Fortnite (PS4) (EU),7545,5.59,23587,0.9,3.3,200,700,recommended
+540,Foul Play,3620,2.87,15715,7.6,3.1,15,20,recommended
+541,FoxyLand,1367,1.01,3448,96.2,2.3,0,1,not recommended
+542,FoxyLand (Asia),1356,1,971,98.9,1.8,0,1,not recommended
+543,FoxyLand (EU),1366,1.01,5131,96.4,2.1,0,1,not recommended
+544,FoxyLand 2,1395,1.03,1869,90.9,1,1,2,not recommended
+545,FoxyLand 2 (EU),1393,1.03,3144,91.2,1.3,1,2,not recommended
+546,Fractured Minds,306,1.02,2537,91.8,2.6,0,1,not recommended
+547,Fragments of Him (EU),329,1.1,228,75,2.9,2,3,not recommended
+548,Freddy Spaghetti (EU) (PS4),1462,1.08,499,82.8,1.8,1,2,not recommended
+549,Freddy Spaghetti (PS4),1463,1.08,377,82,2.9,1,2,not recommended
+550,Friday the 13th: The Game,5871,4.55,39047,1.6,3.4,200,700,recommended
+551,Full Kiss,1287,1.02,554,95.5,0.5,0,1,not recommended
+552,Full Throttle Remastered,1370,1.09,8864,78,3.8,2,3,recommended
+553,FullBlast,1363,1.01,4709,97.6,2.5,0,1,not recommended
+554,FullBlast (Asia),1357,1.01,2114,98.7,2.8,0,1,not recommended
+555,FullBlast (EU),1362,1.01,6966,97.8,2.6,0,1,not recommended
+556,Funk of Titans,1386,1.09,1531,82.4,2.8,5,6,not recommended
+557,Gal*Gunvolt,411,1.37,2732,40.5,3.4,1,2,recommended
+558,Game of Thrones: A Telltale Games Series,1520,1.13,93820,66,3.5,10,12,recommended
+559,Gauntlet: Slayer Edition,4064,3.19,33239,6.4,3.1,50,60,recommended
+560,Gem Smashers,1454,1.13,6191,70.3,2.1,3,4,not recommended
+561,Gemini: Heroes Reborn,1372,1.09,3031,79.4,2.5,5,6,not recommended
+562,Gems of War,9337,5.28,16198,0.1,3.2,120,150,recommended
+563,Ghost Blade HD (JP),1571,1.25,407,50.9,3.8,2,3,recommended
+564,Ghost of Tsushima,2704,1.7,124625,1,4.6,40,50,recommended
+565,Ghostbusters: The Video Game Remastered,2376,1.89,7608,17.4,3.8,15,20,recommended
+566,Giana Sisters: Dream Runners,453,1.44,560,29.5,1.7,0,1,not recommended
+567,Glass Masquerade,1409,1.04,1564,90.7,3.6,4,5,recommended
+568,Goat Simulator,3836,1.8,73492,3.1,2.9,3,4,not recommended
+569,God Eater 2: Rage Burst,3418,2.59,15763,8.7,3.6,80,100,recommended
+570,God Eater 3,2138,1.58,7466,24.9,4.2,40,50,recommended
+571,God Eater Off Shot: Scene Rindou,298,1.05,351,88.9,2.8,0,1,not recommended
+572,God Eater Off Shot: Scene Soma,294,1.03,311,91.6,2.5,0,1,not recommended
+573,God Eater: Resurrection,3532,2.65,15370,9.1,3.7,80,100,recommended
+574,God of War,1892,1.4,238630,36.1,4.8,40,50,recommended
+575,God of War III Remastered,2207,1.63,114443,24.1,4.2,15,20,recommended
+576,Golf Zero (EU),1356,1.05,551,87.1,2,0,1,not recommended
+577,Gone Home,483,1.53,42424,30.3,3,1,2,not recommended
+578,Goodbye Deponia,1435,1.06,1690,84.6,3.2,8,10,recommended
+579,Goosebumps: The Game,1487,1.14,8812,72.2,2.5,2,3,not recommended
+580,Gorogoa,1549,1.2,1365,55.1,4.2,3,4,recommended
+581,Gran Turismo Sport,6353,5.04,57348,1.2,4,200,700,recommended
+582,Grand Prix Rock 'N Racing,1495,1.19,630,65.1,2.2,5,6,not recommended
+583,Grand Theft Auto III,2478,1.94,20429,21.6,4.2,30,35,recommended
+584,Grand Theft Auto San Andreas,2478,1.97,36720,20.4,4.4,40,50,recommended
+585,Grand Theft Auto V,5913,3.1,231535,0.4,4.5,200,700,recommended
+586,Grand Theft Auto Vice City,2418,1.87,18501,19.3,4.4,35,40,recommended
+587,Grass Cutter,1380,1.05,914,88,1.7,0,1,not recommended
+588,Grass Cutter (EU),1374,1.04,937,88.7,1,0,1,not recommended
+589,Gravel,1796,1.33,3715,43.4,3.5,12,15,recommended
+590,Gravity Duck,1311,1.02,2970,96.1,2.6,0,1,not recommended
+591,Gravity Duck (Asia),1297,1.01,1016,98.7,3.1,0,1,recommended
+592,Gravity Duck (EU),1313,1.02,4112,95.6,2.2,0,1,not recommended
+593,Gravity Rush 2,2848,1.86,37007,12.1,3.9,40,50,recommended
+594,Gravity Rush Remastered,2906,1.59,47625,26,4.1,15,20,recommended
+595,Grim Fandango,1923,1.53,59305,35.6,3.7,10,12,recommended
+596,Grim Legends 2: Song of the Dark Swan,1304,1.04,1625,88.3,3.2,4,5,recommended
+597,Grim Legends 3: The Dark City,1351,1.07,1330,77.7,3.2,3,4,recommended
+598,Grim Legends: The Forsaken Bride,1415,1.12,3031,70,3.4,6,8,recommended
+599,GRIS,1685,1.31,5190,52.9,4,3,4,recommended
+600,Grizzland,1381,1.02,497,94,1,0,1,not recommended
+601,Grow Home,641,2.03,31592,14.4,3.2,8,10,recommended
+602,Guacamelee! 2,2516,1.47,9772,12.7,4.4,15,20,recommended
+603,Guacamelee! Super Turbo Championship Edition,3185,2.12,52774,4.1,3.9,15,20,recommended
+604,Guitar Hero Live,5159,3.86,24575,1.8,3.4,200,700,recommended
+605,Gun Crazy,1339,1.01,1845,94.1,2.1,0,1,not recommended
+606,Gun Crazy (EU),1345,1.02,2126,93.2,1.8,0,1,not recommended
+607,GUNS UP!,1649,3.33,12302,1.6,2.7,20,25,not recommended
+608,"Guns, Gore & Cannoli",532,1.69,5343,15,3.6,4,5,recommended
+609,"Guns, Gore & Cannoli 2",1466,1.15,3842,67.7,3.9,4,5,recommended
+610,Habroxia,1408,1.07,989,86.1,2.2,1,2,not recommended
+611,Habroxia (Asia),1356,1.03,665,94.3,0.5,1,2,not recommended
+612,Habroxia (EU),1388,1.05,1314,88.7,2.7,2,3,not recommended
+613,Hajwala (EU),449,1.36,800,9.4,0.9,0,1,not recommended
+614,Halloween Candy Break,1306,1.04,418,89.5,2,0,1,not recommended
+615,Happy Dungeons,1098,3.49,8686,3.3,2.8,100,120,not recommended
+616,Hardware: Rivals,4355,3.26,41631,5.4,2.6,40,50,not recommended
+617,Hatoful Boyfriend,374,1.31,10236,51,2.8,8,10,not recommended
+618,Hatoful Boyfriend: Holiday Star,332,1.05,1613,86.9,2.8,0,1,not recommended
+619,Hatsune Miku: Project DIVA Future Tone,1053,2.06,13814,4.8,3.7,0,1,recommended
+620,Hatsune Miku: Project DIVA Future Tone (Asia),821,1.61,7093,13.1,4.4,0,1,recommended
+621,Hatsune Miku: Project DIVA Future Tone DX,1581,1.26,1742,57.7,4.7,2,3,recommended
+622,Hatsune Miku: Project DIVA X,3377,2.5,7740,7.9,4,80,100,recommended
+623,Headlander,1852,1.44,2919,37.9,3.8,6,8,recommended
+624,Heavy Rain,2355,1.74,68075,19.7,4.1,25,30,recommended
+625,Hellblade: Senua's Sacrifice,1655,1.31,19499,39.9,4.2,8,10,recommended
+626,Hellblade: Senua's Sacrifice (EU),1581,1.25,27987,45.6,4.2,8,10,recommended
+627,HELLDIVERS,5716,3.7,81257,1.9,3.5,50,60,recommended
+628,Her Majesty's SPIFFING,1296,1.03,4058,93.3,3.3,1,2,recommended
+629,Here They Lie,622,2.18,20130,9.3,2.5,5,6,not recommended
+630,Hero Express,1476,1.12,291,77,3.5,6,8,recommended
+631,Heroes Trials,1349,1.02,2008,94.3,2.2,0,1,not recommended
+632,Heroes Trials (Asia),1337,1.01,1104,96.6,2.5,0,1,not recommended
+633,Heroes Trials (EU),1352,1.02,3077,93.2,2.3,0,1,not recommended
+634,Hex Tunnel (EU),1419,1.13,509,75.4,1.8,1,2,not recommended
+635,Hex Tunnel Touch,1312,1.04,989,90.7,1.1,0,1,not recommended
+636,Hex Tunnel Touch (EU),1339,1.06,1581,86.7,1,0,1,not recommended
+637,Hidden Agenda,2746,2.06,19973,10.9,3.4,6,8,recommended
+638,Hidden Through Time,1476,1.13,1566,70.3,3.1,6,8,recommended
+639,Himno,1317,1.02,1861,94.7,2,0,1,not recommended
+640,Himno (Asia),1302,1.01,879,97.6,2,0,1,not recommended
+641,Himno (EU),1324,1.03,2496,93.2,2.1,0,1,not recommended
+642,HiQ Ace,232,1.19,5381,60.3,2.3,0,1,not recommended
+643,HiQ Ace Unlimited,211,1.08,908,75.6,2,1,2,not recommended
+644,HiQ Ace Unlimited (EU),208,1.07,1218,78.1,2.2,0,1,not recommended
+645,HITMAN,4068,2.47,112800,3.9,4.1,4,5,recommended
+646,HITMAN 2,7547,2.35,36757,2.3,4.3,6,8,recommended
+647,Hitman GO: Definitive Edition,1421,1.13,28482,74.5,3.3,4,5,recommended
+648,Hitman: Absolution HD,1976,1.5,3314,33,4.2,15,20,recommended
+649,Hitman: Blood Money HD,2293,1.72,2771,28.9,4.3,15,20,recommended
+650,Hoggy2,1309,1.01,1971,96.1,1.6,0,1,not recommended
+651,Hoggy2 (Asia),1299,1.01,907,98.1,1.6,0,1,not recommended
+652,Hoggy2 (EU),1312,1.02,2616,95.5,1.8,0,1,not recommended
+653,Hohokum,534,1.87,5589,14,3.1,6,8,recommended
+654,Hohokum (EU),592,2.08,3255,10.2,3,5,6,not recommended
+655,Home,444,1.41,4799,34.7,3.1,1,2,recommended
+656,Horizon Chase Turbo,3824,2.9,46773,8,3.4,20,25,recommended
+657,Horizon Zero Dawn,2627,1.47,245220,6.3,4.6,40,50,recommended
+658,Horse Racing 2016,346,1.21,360,59.4,0.9,2,3,not recommended
+659,Horse Racing 2016 (EU),333,1.17,395,64.3,1.7,1,2,not recommended
+660,Hotel Transylvania 3: Monsters Overboard,1990,1.49,2836,38.6,2.2,6,8,not recommended
+661,Hotline Miami,2781,2.06,64757,14.7,4.1,15,20,recommended
+662,Hotline Miami 2: Wrong Number,3416,2.65,21697,7.6,4.1,20,25,recommended
+663,House Flipper (EU),2141,1.66,1938,31.4,3.7,6,8,recommended
+664,Hue,456,1.6,24706,20.9,3.4,6,8,recommended
+665,Human: Fall Flat,3848,2.31,17902,2.5,3.8,15,20,recommended
+666,I Am Setsuna,2305,1.79,11033,21.5,4.1,40,50,recommended
+667,I Am The Hero,1512,1.12,1028,76,2.6,1,2,not recommended
+668,I Am The Hero (EU),1485,1.1,1416,79.4,2.5,2,3,not recommended
+669,"I, Zombie",638,2.03,1515,16.8,2.8,2,3,not recommended
+670,ICEY,1457,1.16,2485,71.1,3.1,4,5,recommended
+671,Immortals Fenyx Rising (PS4),2856,1.85,5363,0,4.2,35,40,recommended
+672,Indivisible,2670,1.75,4768,0,3.6,20,25,recommended
+673,inFAMOUS First Light,2084,1.54,144573,34.8,3.8,8,10,recommended
+674,inFAMOUS Second Son,1783,1.35,211708,41.1,4.1,15,20,recommended
+675,Inferno 2,1380,1.02,710,94.1,3.1,0,1,recommended
+676,Inferno 2 (EU),1387,1.03,759,92.5,2.5,1,2,not recommended
+677,Injustice 2,4410,2.91,63317,1.9,4.1,60,80,recommended
+678,InkSplosion,1436,1.06,5430,86,2.2,0,1,not recommended
+679,InkSplosion (Asia),1382,1.02,2283,94.5,1.8,0,1,not recommended
+680,InkSplosion (EU),1458,1.08,8022,82.7,2,0,1,not recommended
+681,Inner Kung Fu Game,321,1.02,483,95.7,0.8,0,1,not recommended
+682,INSIDE,387,1.36,22471,47.3,4.3,3,4,recommended
+683,IN-VERT,1325,1.03,1003,91.5,1.8,0,1,not recommended
+684,Iro Hero,1356,1.02,1214,93.6,2.1,0,1,not recommended
+685,Iro Hero (Asia),1342,1,707,98.3,1.8,0,1,not recommended
+686,Iro Hero (EU),1357,1.02,1529,93.7,1.9,0,1,not recommended
+687,Iro Hero (JP),1350,1.01,851,96.8,2.8,0,1,not recommended
+688,Iron Snout,1372,1.02,2780,95.5,1.9,0,1,not recommended
+689,Iron Snout (Asia),1359,1.01,1181,98.2,1.6,0,1,not recommended
+690,Iron Snout (EU),1371,1.02,4034,95.7,2,0,1,not recommended
+691,Island Saver,821,1.61,4235,5.7,3.2,6,8,recommended
+692,Iwaihime -Matsuri-,1313,1.02,650,96,2.2,0,1,not recommended
+693,Jack N' Jill DX,1302,1.01,6530,97.9,2.2,0,1,not recommended
+694,Jack N' Jill DX (Asia),1294,1,2377,99.2,2.6,0,1,not recommended
+695,Jack N' Jill DX (EU),1299,1.01,10055,98.5,2.4,0,1,not recommended
+696,Jak 3,1677,1.24,10915,45,3.7,1,2,recommended
+697,Jak and Daxter: The Precursor Legacy,1850,1.37,27704,45.5,4,10,12,recommended
+698,Jak II,1652,1.22,17288,57.3,3.5,0,1,recommended
+699,Jak X: Combat Racing,2143,1.66,7341,29.6,3.7,10,12,recommended
+700,Jazzpunk,1385,1.06,3852,85.8,2.7,1,2,not recommended
+701,Jazzpunk (EU),1353,1.04,3812,91.3,2.8,1,2,not recommended
+702,Jetpack Joyride,565,1.79,2988,14.3,3.2,20,25,recommended
+703,JigSaw Abundance,1370,1.03,1158,94.6,1,0,1,not recommended
+704,JigSaw Abundance (EU),1361,1.02,1481,95.8,1.6,0,1,not recommended
+705,JigSaw Solace,324,1.03,321,94.1,2,0,1,not recommended
+706,JigSaw Solace (EU),326,1.03,426,93,0.8,0,1,not recommended
+707,Jigsaw Zen,1327,1.03,1242,91.7,2.3,1,2,not recommended
+708,Jisei: The First Case HD,1338,1.01,768,96.5,2.7,0,1,not recommended
+709,Jisei: The First Case HD (EU),1342,1.02,926,96,2.2,0,1,not recommended
+710,Job Simulator,1647,1.28,7890,48.4,4.1,3,4,recommended
+711,Job Simulator (EU),1617,1.25,5639,51.9,3.9,2,3,recommended
+712,Jojo's Bizarre Adventure: Eyes of Heaven,2398,1.88,12152,14.9,3.8,30,35,recommended
+713,Journey,601,1.91,86045,13.5,4.1,6,8,recommended
+714,Journey to the Savage Planet,3484,2.19,4879,1.5,3.8,12,15,recommended
+715,J-STARS Victory VS+,3218,2.49,15045,8.4,3.4,35,40,recommended
+716,J-STARS Victory VS+ (EU),2723,2.11,10826,12.9,3.1,20,25,recommended
+717,Judgment,4355,3.23,17709,4.3,4.4,100,120,recommended
+718,Jurassic World Evolution,5291,2.65,16243,0.5,3.8,40,50,recommended
+719,Just a Phrase by POWGI,1345,1.02,1093,94.7,1.8,1,2,not recommended
+720,Just a Phrase by POWGI (EU),1340,1.02,1366,95.8,2,1,2,not recommended
+721,Just Cause 3,4971,2.65,128407,2.1,3.6,60,80,recommended
+722,Just Cause 4,4850,2.65,42538,1.9,3.3,35,40,recommended
+723,Just Ignore Them,1410,1.04,1006,89.9,2.2,1,2,not recommended
+724,Just Ignore Them (EU),1400,1.04,1200,91.8,1.7,0,1,not recommended
+725,Ken Follett's The Pillars of the Earth,1727,1.26,1165,31.9,3.4,6,8,recommended
+726,Killing Floor 2,3940,2.37,92223,3.1,3.7,25,30,recommended
+727,Killzone Shadow Fall,6419,3.69,124204,0.6,3.4,50,60,recommended
+728,Killzone Shadow Fall Intercept,394,1.25,537,53.4,4.1,12,15,recommended
+729,Kimi no Hitomi ni Hit Me,1343,1.02,770,96,2,0,1,not recommended
+730,King Oddball (PS4),840,2.67,17936,5.4,3,15,20,not recommended
+731,Kingdom Come: Deliverance,7536,3.51,22276,0.7,3.7,120,150,recommended
+732,KINGDOM HEARTS 0.2 Birth by Sleep – A Fragmentary Passage –,555,1.76,29883,11.6,4.1,12,15,recommended
+733,KINGDOM HEARTS Birth by Sleep FINAL MIX,3046,2.36,24523,9.5,4.3,80,100,recommended
+734,KINGDOM HEARTS Dream Drop Distance,3159,2.37,31540,11.4,3.8,50,60,recommended
+735,KINGDOM HEARTS FINAL MIX,2550,1.91,46451,15.2,4.3,50,60,recommended
+736,KINGDOM HEARTS II FINAL MIX,2498,1.89,32738,16,4.5,60,80,recommended
+737,KINGDOM HEARTS III,3121,2.02,73807,1.2,4.2,50,60,recommended
+738,KINGDOM HEARTS Re:Chain of Memories,2878,2.23,22674,12.3,3.5,60,80,recommended
+739,Kingdom Hearts: Melody of Memory,2264,1.68,3878,20.9,4.2,40,50,recommended
+740,King's Quest,1613,1.71,15653,7.5,3.9,3,4,recommended
+741,Kitten Squad,189,1.4,9687,26.6,1.8,3,4,not recommended
+742,Knack,3714,2.75,86731,8.6,3.2,50,60,recommended
+743,Knack 2,2361,1.77,22854,19,3.6,15,20,recommended
+744,Knee Deep,1484,1.12,977,72.9,3.2,6,8,recommended
+745,Knightin'+,1413,1.05,820,89.1,0.5,0,1,not recommended
+746,Knightin'+ (EU),1403,1.04,1345,90.7,1,0,1,not recommended
+747,Knot,360,1.2,372,58.6,2,2,3,not recommended
+748,Knowledge is Power,3873,3.04,32875,3.6,3.4,20,25,recommended
+749,Kona,1978,1.5,2967,36.9,3.3,8,10,recommended
+750,KOTODAMA,1812,1.44,1114,40.2,2.9,12,15,not recommended
+751,Kung Fury: Street Rage,586,1.95,3484,10.4,3.2,1,2,recommended
+752,L.A. Noire,3300,1.67,19039,15.6,4.4,30,35,recommended
+753,L.A. Noire: The VR Case Files,2347,1.82,622,23.8,3.6,6,8,recommended
+754,LA Cops,1640,1.3,4588,46.9,2.8,6,8,not recommended
+755,Lara Croft and the Temple of Osiris,710,2.37,64585,5.3,3.1,8,10,recommended
+756,Lara Croft GO,1420,1.09,22861,80.7,3.4,5,6,recommended
+757,Last Day of June,372,1.18,2608,45.8,3.8,2,3,recommended
+758,Late Shift,1437,1.14,10303,71,3.5,3,4,recommended
+759,League of Evil (EU),1526,1.18,1018,64.2,3,2,3,not recommended
+760,Leaving Lyndow,313,1.04,580,86.9,1.8,0,1,not recommended
+761,LEGO Batman 3: Beyond Gotham,2676,1.57,29986,17.1,3.8,25,30,recommended
+762,LEGO CITY Undercover,2084,1.62,12027,29.6,3.9,40,50,recommended
+763,LEGO DC Super-Villains (EU),2725,1.51,6115,17.5,3.9,35,40,recommended
+764,LEGO Dimensions,3230,1.67,11726,4.1,4,15,20,recommended
+765,LEGO Harry Potter: Years 1-4,1878,1.39,18883,43.6,3.8,20,25,recommended
+766,LEGO Harry Potter: Years 5-7,1680,1.24,12358,55.8,4,20,25,recommended
+767,LEGO Jurassic World,1829,1.4,27986,40.3,3.9,25,30,recommended
+768,LEGO Marvel Super Heroes,1987,1.58,50319,30.2,3.9,30,35,recommended
+769,LEGO Marvel Super Heroes 2,2861,1.6,18946,13.6,3.7,50,60,recommended
+770,LEGO Marvel's Avengers,2575,1.49,24612,18.8,3.8,25,30,recommended
+771,LEGO Star Wars: The Force Awakens,2506,1.52,31751,15.6,4,25,30,recommended
+772,LEGO The Hobbit,1951,1.5,17712,37.7,3.6,30,35,recommended
+773,LEGO The Incredibles,1842,1.36,7864,41.6,3.7,20,25,recommended
+774,LEGO Worlds,5379,3.17,19148,1.5,3.3,60,80,recommended
+775,Leisure Suit Larry - Wet Dreams Don't Dry (EU),1496,1.19,816,62.9,4.1,8,10,recommended
+776,Lethal VR,426,1.35,2150,32.5,3.1,0,1,recommended
+777,Letter Quest Remastered,525,1.67,12701,26.8,3.2,12,15,recommended
+778,Level 22,480,1.52,4979,33.1,2.9,2,3,not recommended
+779,Life Is Strange,1594,1.25,121062,49.8,4.2,2,3,recommended
+780,Life Is Strange 2,1593,1.24,16404,50.4,3.9,2,3,recommended
+781,Life Is Strange: Before The Storm,1465,1.1,36771,72.5,3.9,2,3,recommended
+782,LIMBO,760,2.41,50819,3.9,4,4,5,recommended
+783,Linelight,1821,1.4,813,46.6,4.2,8,10,recommended
+784,Little Adventure on the Prairie,1285,1.02,15517,95.6,1.2,0,1,not recommended
+785,Little Nightmares,1522,2.16,23298,5.1,3.8,5,6,recommended
+786,LittleBigPlanet 3,4811,3.14,86828,1.6,3.5,15,20,recommended
+787,Loadout,2248,7.14,40910,0.6,2.6,100,120,not recommended
+788,Lone Survivor: The Director's Cut,2446,1.9,10898,23.8,3.3,6,8,recommended
+789,Loot Hero DX (EU),1323,1,561,98.8,2,0,1,not recommended
+790,Lord Of The Click,1380,1.02,672,93,1.2,0,1,not recommended
+791,Lords of the Fallen,4467,2.92,95492,1.8,3.2,25,30,recommended
+792,Lost Grimoires 2: Shard of Mystery,1332,1.03,1849,89.7,3.2,3,4,recommended
+793,Lost Grimoires: Stolen Kingdom,1349,1.05,2337,86.8,3,2,3,not recommended
+794,Lost Wing (EU),1365,1.06,282,73.4,3.5,0,1,recommended
+795,Lovers in a Dangerous Spacetime,4559,3.42,23616,5.7,3.2,10,12,recommended
+796,Machinarium,380,1.2,2441,64.6,3.7,2,3,recommended
+797,Mad Max,2705,2.03,112292,12.1,3.8,60,80,recommended
+798,Madden NFL 20,3455,2.62,13246,5,3.9,15,20,recommended
+799,Mafia II: Definitive Edition,3390,2.04,12507,4,3.8,20,25,recommended
+800,Mafia III,3499,1.99,107596,3.6,3.5,40,50,recommended
+801,Mafia: Definitive Edition (EU),1983,1.56,13318,24.8,4.2,25,30,recommended
+802,Magicka 2,5787,4.29,34755,3.4,3.2,20,25,recommended
+803,Mahjong,427,1.42,1734,39,3,8,10,not recommended
+804,Making*Lovers,1296,1.03,411,93.9,1.7,0,1,not recommended
+805,Maneater (PS4),1688,1.28,14712,54.4,3.9,10,12,recommended
+806,Many Faces,1332,1.01,910,97.4,2.2,0,1,not recommended
+807,Many Faces (EU),1336,1.01,1092,96.2,2,0,1,not recommended
+808,Mark of the Ninja: Remastered (EU),1984,1.56,1206,32.5,4.8,15,20,recommended
+809,Marvel's Guardians of the Galaxy: The Telltale Series,1370,1.07,21433,77.3,3.8,1,2,recommended
+810,Marvel's Spider-Man,2656,1.34,232809,9.8,4.6,25,30,recommended
+811,Marvel's Spider-Man: Miles Morales (PS4),1812,1.36,19499,38.1,4.4,15,20,recommended
+812,Mass Effect: Andromeda,3071,2.27,69124,7.9,3.6,80,100,recommended
+813,Max Payne,518,1.73,4542,24.2,3.9,2,3,recommended
+814,MechaNika,1295,1.03,680,93.7,2.5,0,1,not recommended
+815,Mecho Tales,1322,1.03,1781,92.9,2.3,2,3,not recommended
+816,Mecho Tales (EU),1335,1.03,897,90.9,1.9,2,3,not recommended
+817,MediEvil,1807,1.4,28456,41.7,3.9,15,20,recommended
+818,Mega Man X Legacy Collection,2080,1.54,9915,32.8,4.5,20,25,recommended
+819,Megadimension Neptunia VII,2851,2.18,8476,13.8,4.2,60,80,recommended
+820,Mekabolt,1368,1.01,2418,96.9,1.9,0,1,not recommended
+821,Mekabolt (Asia),1357,1.01,954,99,2,0,1,not recommended
+822,Mekabolt (EU),1370,1.01,3300,96.7,1.9,0,1,not recommended
+823,Mekorama (EU),1567,1.17,344,67.4,1.7,2,3,not recommended
+824,Memory Lane,1348,1.01,1819,98,2.4,0,1,not recommended
+825,Memory Lane (EU),1347,1.01,2568,98.1,2.4,0,1,not recommended
+826,Mercenary Kings,3576,2.68,15907,8.8,3.3,50,60,recommended
+827,METAGAL,1311,1.02,4044,94.4,2.4,0,1,not recommended
+828,METAGAL (Asia),1300,1.01,1207,97.5,2.2,0,1,not recommended
+829,METAGAL (EU),1309,1.01,4751,94.8,2.1,0,1,not recommended
+830,METAGAL (Vita),1312,1.02,2273,94.5,2.7,0,1,not recommended
+831,Metal Gear Solid V: Ground Zeroes,750,2.38,123071,8.1,3.7,15,20,recommended
+832,Metal Gear Solid V: The Phantom Pain,3068,2.41,168755,8.5,4.3,150,200,recommended
+833,METAL SLUG 3,658,2.09,20687,10.8,3.4,3,4,recommended
+834,Metro 2033 Redux,2257,1.67,45753,23.3,4,20,25,recommended
+835,Metro Exodus,3820,2.14,34285,2.5,3.9,20,25,recommended
+836,Metro: Last Light Redux,2257,1.67,37011,22.3,4.1,20,25,recommended
+837,Metropolis: Lux Obscura,1411,1.07,1023,82.1,3.6,4,5,recommended
+838,Metropolis: Lux Obscura (EU),1419,1.08,1191,80.9,2.9,3,4,not recommended
+839,Micetopia,1376,1.04,286,88.5,3,1,2,not recommended
+840,Micetopia (EU),1356,1.03,370,92.7,1.8,1,2,not recommended
+841,Middle-earth: Shadow of Mordor,3055,1.76,109263,1.3,4.1,25,30,recommended
+842,Middle-earth: Shadow of Mordor - Game of the Year Edition,3064,1.76,50378,4.4,4.1,40,50,recommended
+843,Middle-earth: Shadow of War,3069,1.79,76699,2.6,3.9,40,50,recommended
+844,Midnight Deluxe,1365,1.01,5455,96.8,2.4,0,1,not recommended
+845,Midnight Deluxe (Asia),1359,1.01,2523,98,2.1,0,1,not recommended
+846,Midnight Deluxe (EU),1364,1.01,9134,97,2.5,0,1,not recommended
+847,Mikagami Sumika no Seifuku Katsudou,304,1.01,629,97.1,0.5,0,1,not recommended
+848,Milo's Quest,1366,1.01,2296,96.5,2.2,0,1,not recommended
+849,Milo's Quest (EU),1365,1.01,3336,96.7,2,0,1,not recommended
+850,Minecraft,10484,2.95,127563,1,4.2,30,35,recommended
+851,Minecraft Dungeons,3149,1.81,12305,0.9,3.9,15,20,recommended
+852,Minecraft: Story Mode - A Telltale Games Series,2498,1.29,24787,26.7,3.5,1,2,recommended
+853,Minecraft: Story Mode - Season Two,1353,1.06,5990,80.9,3.5,1,2,recommended
+854,Minefield,374,1.19,1922,59.6,2.6,0,1,not recommended
+855,Minefield (EU),382,1.21,3332,57,2.3,0,1,not recommended
+856,Minesweeper Genius,1486,1.15,232,69.4,3.8,6,8,recommended
+857,Minesweeper Genius (EU),1509,1.17,363,67.2,3.9,4,5,recommended
+858,Minit,1654,1.28,2814,51.2,4.2,1,2,recommended
+859,Mirror's Edge Catalyst,2912,2.18,41375,12.4,3.6,20,25,recommended
+860,Mixups by POWGI,1364,1.03,1500,92.5,2.3,1,2,not recommended
+861,Mixups by POWGI (Asia),1339,1.01,426,96.7,2.8,1,2,not recommended
+862,Mixups by POWGI (EU),1355,1.03,2205,93.7,2.7,1,2,not recommended
+863,MLB 14 The Show,4610,3.41,9926,4.7,4,12,15,recommended
+864,MLB The Show 17,3174,2.46,10153,7.1,4.4,30,35,recommended
+865,MLB The Show 18,2231,1.73,8613,14.2,4.3,20,25,recommended
+866,Mochi Mochi Boy,1303,1.01,2771,97.2,2.2,0,1,not recommended
+867,Mochi Mochi Boy (Asia),1294,1,1137,99.3,2.5,0,1,not recommended
+868,Mochi Mochi Boy (EU),1302,1.01,3828,97.4,2.3,0,1,not recommended
+869,Modern Tales: Age of Invention,1342,1.03,724,89.8,3,2,3,not recommended
+870,Mom Hid My Game!,333,1.11,423,69,3.1,1,2,recommended
+871,MONOPOLY Deal,436,1.38,1293,35.6,2.5,3,4,not recommended
+872,Monopoly Family Fun Pack,537,1.71,14005,9,3.2,2,3,recommended
+873,MONOPOLY Plus,433,1.38,32665,16.6,3.3,1,2,recommended
+874,Monster Boy and the Cursed Kingdom,1939,1.44,2849,42.6,4.3,20,25,recommended
+875,Monster Energy Supercross - The Official Videogame,2682,1.99,22512,19.9,2.7,8,10,not recommended
+876,Monster Jam: Crush It!,1427,1.06,4510,84.5,2.3,3,4,not recommended
+877,More Dark,1306,1.01,376,95.7,4,0,1,recommended
+878,More Dark (EU),1303,1.01,439,97.3,0.5,0,1,not recommended
+879,Mortal Kombat 11 (PS4),2555,1.89,49203,14.7,4.3,40,50,recommended
+880,Mortal Kombat X,4865,3.15,125523,2.1,4,50,60,recommended
+881,Mortal Shell (EU),2764,2.14,4410,13.4,4,15,20,recommended
+882,MotoGP 14,2095,1.55,3918,29.1,3.5,15,20,recommended
+883,MotoGP 14 Compact,367,1.16,469,57.4,3.1,2,3,recommended
+884,MotoGP 17,1911,1.42,2068,40.7,3.6,15,20,recommended
+885,MotoGP 18,1727,1.28,1318,49.4,3.8,20,25,recommended
+886,MouseCraft,441,1.47,13982,40.5,2.9,4,5,not recommended
+887,Mr. Massagy,1373,1.02,13093,96,2.1,0,1,not recommended
+888,Murdered: Soul Suspect,1581,1.24,40853,49.8,3.5,8,10,recommended
+889,Music Racer (EU),1513,1.15,983,69.5,3.2,8,10,recommended
+890,MXGP2 The Official Motocross Videogame,1651,1.22,2632,57.7,3.7,10,12,recommended
+891,My Big Sister,1417,1.05,1079,89.2,2.4,1,2,not recommended
+892,My Big Sister (EU),1422,1.05,1489,88.7,3,1,2,not recommended
+893,My Name is Mayo,1375,1.02,48069,95.8,1.8,0,1,not recommended
+894,My Name is Mayo 2,1361,1.01,13397,97.8,2.2,0,1,not recommended
+895,My Time at Portia,3053,2.37,5316,10.6,3.6,80,100,recommended
+896,N.E.R.O.: Nothing Ever Remains Obscure,1467,1.12,4969,75.6,2.4,2,3,not recommended
+897,Naruto Shippuden: Ultimate Ninja Storm 2,2333,1.77,11073,18.8,4,35,40,recommended
+898,Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,2121,1.57,10894,27.5,4,30,35,recommended
+899,Naruto Shippuden: Ultimate Ninja Storm 4,2833,1.89,52293,6.1,4,35,40,recommended
+900,Naruto: Ultimate Ninja Storm,1843,1.45,17170,38.6,3.6,12,15,recommended
+901,NBA 2K17: The Prelude,389,1.23,17801,41.6,2.8,1,2,not recommended
+902,NBA 2K18: The Prelude,377,1.2,18827,29.7,2.4,1,2,not recommended
+903,NBA 2K19: The Prelude,367,1.17,13905,54.6,2.6,0,1,not recommended
+904,NBA 2K20,7305,5.41,40494,0.6,3.3,200,700,recommended
+905,Need for Speed,2736,1.84,85151,0.3,3.5,20,25,recommended
+906,Need for Speed Heat,2449,1.92,42143,16.8,3.5,30,35,recommended
+907,Need for Speed Payback,3091,2.17,84644,3.8,3.5,40,50,recommended
+908,Need for Speed Rivals,2774,2.1,72693,14.9,3.5,20,25,recommended
+909,NEKOPARA Vol.1,347,1.1,1048,78.5,2.4,0,1,not recommended
+910,NEKOPARA Vol.2,326,1.04,710,91.3,2.4,0,1,not recommended
+911,Neon Chrome (PS4),702,2.46,4816,6.8,3.4,12,15,recommended
+912,Neon Junctions,1381,1.05,1314,88.9,2.6,1,2,not recommended
+913,Neon Junctions (EU),1372,1.04,1865,90.6,2.4,1,2,not recommended
+914,Never Alone (Kisima Ingitchuna),741,1.59,27315,8.9,3.3,3,4,recommended
+915,Never Alone (Kisima Ingitchuna) (EU),699,1.5,33967,11.4,3.2,2,3,recommended
+916,Never Alone (Kisima Ingitchuna) (JP),400,1.27,2236,48.8,3.5,3,4,recommended
+917,Neverending Nightmares,336,1.12,1257,68.1,2.7,1,2,not recommended
+918,New Super Lucky's Tale,1608,1.25,1047,48.7,4.3,10,12,recommended
+919,Nexomon: Extinction (EU),2308,1.71,1700,21.8,4.4,50,60,recommended
+920,Ni no Kuni II: Revenant Kingdom,3415,1.95,40070,1.7,4.1,60,80,recommended
+921,Ni no Kuni: Wrath Of The White Witch Remastered,2960,2.27,8451,14,4.5,60,80,recommended
+922,NieR: Automata,1945,1.44,96109,37.5,4.5,40,50,recommended
+923,Nightmares from the Deep 2: The Siren's Call,1500,1.11,3405,70,3.5,6,8,recommended
+924,Nightmares from the Deep 3: Davy Jones,1379,1.04,1488,85.5,3.6,6,8,recommended
+925,Nightmares from the Deep: The Cursed Heart,1427,1.13,4664,68.1,3.2,6,8,recommended
+926,Nights of Azure,2484,1.93,13484,17.9,3.3,40,50,recommended
+927,Nights of Azure 2: Bride of the New Moon,2304,1.75,2051,22.4,3.5,40,50,recommended
+928,Nioh,3627,1.93,104506,3.6,4.4,60,80,recommended
+929,Nioh 2,3189,1.65,30695,3.3,4.5,80,100,recommended
+930,Nitroplus Blasterz: Heroines Infinite Duel,2324,1.72,7708,21.7,3.7,8,10,recommended
+931,No Man's Sky (PS4),3371,2.34,87905,1,3.2,40,50,recommended
+932,Noir Chronicles: City of Crime,1317,1.05,1111,85.1,3,3,4,not recommended
+933,NORTH,314,1.05,1226,89.3,1.5,0,1,not recommended
+934,NORTH (EU),315,1.05,1127,88.1,1.7,0,1,not recommended
+935,Nova-111,930,3.1,10247,6,2.8,8,10,not recommended
+936,Nubla,1285,1.02,3556,95.1,2,0,1,not recommended
+937,Nubla (EU),1280,1.02,5560,96.1,2.3,0,1,not recommended
+938,Null Drifter,1366,1.01,919,96.7,1.2,0,1,not recommended
+939,Null Drifter (Asia),1356,1,533,98.7,0.5,0,1,not recommended
+940,Null Drifter (EU),1370,1.01,1089,96.6,2.2,0,1,not recommended
+941,Null Drifter (JP),1365,1.01,657,97.6,0.5,0,1,not recommended
+942,Observation,613,1.95,3028,10.2,3.8,6,8,recommended
+943,Oceanhorn - Monster of Uncharted Seas,1922,1.42,7310,41.4,3.2,12,15,recommended
+944,Octodad: Dadliest Catch,501,1.67,7145,22,3.7,4,5,recommended
+945,Octodad: Dadliest Catch (EU),493,1.64,6602,23.3,3.3,2,3,recommended
+946,Oddworld: New 'n' Tasty,4555,3.37,65096,4.8,3.6,15,20,recommended
+947,Odin Sphere Leifthrasir,2235,1.66,17036,27.3,4.4,30,35,recommended
+948,Of Tanks and Demons III,1368,1.01,460,95.9,4,1,2,recommended
+949,OKAGE: Shadow King,2721,2.16,1743,16.8,3.7,30,35,recommended
+950,Okami HD,2466,1.83,38454,20.9,4.3,50,60,recommended
+951,Old Man's Journey,1394,1.06,4647,84.7,3.3,1,2,recommended
+952,Omega Strike,1682,1.29,1054,51.9,3.2,4,5,recommended
+953,One Eyed Kutkh,292,1.03,517,93.6,1.8,0,1,not recommended
+954,One Eyed Kutkh (EU),293,1.03,382,93.2,1.9,0,1,not recommended
+955,One Night Stand,1433,1.06,2027,86.3,2,0,1,not recommended
+956,One Night Stand (EU),1421,1.05,2229,87.9,2.1,1,2,not recommended
+957,ONE PIECE World Seeker,3289,1.66,5954,5.7,3.2,30,35,recommended
+958,One Piece: Burning Blood,2023,1.5,12452,32.9,3.8,15,20,recommended
+959,One Piece: Pirate Warriors 3,2334,1.79,18816,15.1,4,150,200,recommended
+960,ONE PIECE: PIRATE WARRIORS 4,1589,1.22,7775,50.4,4.4,15,20,recommended
+961,One Upon Light,473,1.66,537,31.7,2.7,5,6,not recommended
+962,One Word by POWGI,1342,1.02,2749,96.3,2.2,0,1,not recommended
+963,One Word by POWGI (Asia),1327,1.01,711,98.7,2.7,0,1,not recommended
+964,One Word by POWGI (EU),1338,1.01,3988,96.8,2.7,0,1,not recommended
+965,Onechanbara Z2: Chaos,3282,2.57,6055,9.3,3.7,20,25,recommended
+966,ONRUSH,3242,2.43,53339,9.8,3.5,15,20,recommended
+967,Orc Slayer,1447,1.07,4068,83.8,1.1,2,3,not recommended
+968,Orc Slayer (EU),1444,1.07,5234,84.3,0.9,2,3,not recommended
+969,Outlast,1498,3.03,58601,2.9,3.8,8,10,recommended
+970,Outlast 2,5674,4.3,27803,2.2,3.5,20,25,recommended
+971,Overcooked!,566,1.99,71887,12.8,4,8,10,recommended
+972,Overcooked! 2,3854,1.89,23836,4.2,4.4,8,10,recommended
+973,OXENFREE,1846,1.43,7371,35.2,3.8,12,15,recommended
+974,PAC-MAN 256,603,1.92,4107,13.4,3.4,15,20,recommended
+975,Pac-Man Championship Edition 2,6333,4.69,18339,1.6,3.4,8,10,recommended
+976,Palm Reading Premium,318,1.01,552,97.6,0.8,0,1,not recommended
+977,Palm Reading Premium (EU),319,1.01,351,97.2,1,0,1,not recommended
+978,Paparazzi,340,1.13,617,69.5,1.8,0,1,not recommended
+979,Paradox Soul,1382,1.02,2005,93.9,2.1,0,1,not recommended
+980,Paradox Soul (EU),1378,1.02,2436,94.4,2.3,0,1,not recommended
+981,Paradox Soul (HK/TW),1360,1.01,816,97.9,2.1,0,1,not recommended
+982,Paraiso Island,409,1.3,1888,50.8,1.6,1,2,not recommended
+983,Paraiso Island (EU),455,1.44,1281,40.5,1.1,1,2,not recommended
+984,PaRappa the Rapper Remastered,2339,1.86,8954,19.6,2.9,4,5,not recommended
+985,Party Hard,513,1.63,2424,11.9,3.5,8,700,recommended
+986,Peasant Knight,1354,1.03,3400,91.5,2.2,0,1,not recommended
+987,Peasant Knight (Asia),1336,1.01,1460,96,2.1,0,1,not recommended
+988,Peasant Knight (EU),1357,1.03,5069,90.6,1.9,0,1,not recommended
+989,Peggle 2,2637,1.87,22058,11.6,3.8,15,20,recommended
+990,Penarium,566,1.8,360,10.8,2.9,8,10,not recommended
+991,Perfect Angle,1339,1.04,1532,91.8,2.4,1,2,not recommended
+992,Perils of Baking,1478,1.09,764,80.1,1,3,4,not recommended
+993,Perils of Baking (EU),1502,1.11,941,76.8,1.6,2,3,not recommended
+994,Persian Nights: Sands of Wonders,1327,1.04,994,87,3.5,3,4,recommended
+995,Persona 3: Dancing in Moonlight,1783,1.35,8943,49.4,4,10,12,recommended
+996,Persona 3: Dancing in Moonlight (JP),1634,1.24,2174,59.8,3.9,8,10,recommended
+997,Persona 4: Dancing All Night,1825,1.37,6049,46.3,4.3,12,15,recommended
+998,Persona 5,2524,1.91,76018,13.7,4.7,150,200,recommended
+999,Persona 5 Royal,1717,1.36,17258,37.3,4.8,80,100,recommended
+1000,Persona 5 Royal (EU),1662,1.32,12550,42.1,4.9,120,150,recommended
+1001,Persona 5: Dancing in Starlight,1819,1.38,11408,46.5,4.1,12,15,recommended
+1002,Persona 5: Dancing in Starlight (JP),1678,1.27,2515,56.2,4.2,8,10,recommended
+1003,Personality and Psychology Premium,338,1.07,452,80.5,1,0,1,not recommended
+1004,Phobos Vector Prime: The First Ring,1358,1.05,388,87.1,2.5,1,2,not recommended
+1005,Phobos Vector Prime: The First Ring (EU),1418,1.1,877,78.7,2.5,1,2,not recommended
+1006,Phoenix Wright: Ace Attorney Trilogy,2122,1.59,7660,33.8,4.3,40,50,recommended
+1007,Pic-a-Pix Classic,1505,1.14,465,70.5,3.9,5,6,recommended
+1008,Pic-a-Pix Color,1465,1.12,2047,73.5,2.9,10,12,not recommended
+1009,Pic-a-Pix Pieces (EU),1548,1.17,619,66.7,3.2,15,20,recommended
+1010,Pillar,325,1.08,170,80.6,2.8,1,2,not recommended
+1011,Pity Pit,1338,1.01,1076,96.7,3,0,1,not recommended
+1012,Pity Pit (EU),1333,1.01,1444,97.6,2,0,1,not recommended
+1013,Pity Pit (JP),1331,1.01,656,98.3,5,0,1,recommended
+1014,PixARK,2074,1.61,1574,32.3,1.5,1,2,not recommended
+1015,Pixel Devil and the Broken Cartridge,1358,1.07,725,85.7,1,0,1,not recommended
+1016,PixelJunk Shooter Ultimate,3567,2.64,53783,9.5,3.3,12,15,recommended
+1017,Plague Inc: Evolved,3669,2.55,6620,3.4,3.7,20,25,recommended
+1018,Planet of the Apes: Last Frontier (EU),1936,1.48,1683,34.1,3.4,12,15,recommended
+1019,Planet of the Eyes,1285,1.02,4677,95.3,2.6,1,2,not recommended
+1020,Planet RIX-13,1293,1.01,2730,96.8,2.1,0,1,not recommended
+1021,Planet RIX-13 (EU),1290,1.01,3008,97,2.1,0,1,not recommended
+1022,Plants vs. Zombies Garden Warfare 2,3185,2.1,37440,2.5,4.1,40,50,recommended
+1023,Plants vs. Zombies: Garden Warfare,3375,2.18,68547,7.4,4,30,35,recommended
+1024,PlayStation VR Worlds,9737,7.38,43905,0.9,3.5,15,20,recommended
+1025,Please Don't Touch Anything,1489,1.18,473,61.7,5,1,2,recommended
+1026,Pneuma: Breath of Life (EU),353,1.18,572,44.2,2.7,2,3,not recommended
+1027,Poltergeist: A Pixelated Horror,547,1.74,1102,19.6,3,4,5,not recommended
+1028,Prehistoric Dude (EU),1377,1.04,916,89.2,0.5,0,1,not recommended
+1029,Prey,4114,2.66,41590,1.2,4,40,50,recommended
+1030,Project CARS 2,3883,2.88,12832,6.2,3.6,35,40,recommended
+1031,Project Starship,1335,1.01,916,96.8,1.5,0,1,not recommended
+1032,Project Starship (EU),1338,1.01,1181,96.2,1,0,1,not recommended
+1033,Prototype,4121,3.05,9925,6.2,3.3,20,25,recommended
+1034,Prototype 2,1894,1.43,9670,36.7,3.8,12,15,recommended
+1035,Psychonauts,2499,1.87,7925,20.6,4.1,15,20,recommended
+1036,Psychonauts in The Rhombus of Ruin,399,1.4,2188,23.9,3.4,1,2,recommended
+1037,PSYCHO-PASS: Mandatory Happiness,1605,1.19,6846,65.6,2.7,20,25,not recommended
+1038,Punch Line (EU),1650,1.22,840,60.6,2.8,20,25,not recommended
+1039,Push Me Pull You,476,1.67,693,26,2.2,0,1,not recommended
+1040,Putty Squad,2391,1.77,2559,27.9,2.7,8,10,not recommended
+1041,Puyo Puyo Tetris,3411,2.64,3864,7.8,4,30,35,recommended
+1042,Puzzle Quest: Challenge of the Warlords,624,1.98,877,15.3,4.1,15,20,recommended
+1043,Puzzle Showdown 4K,1376,1.07,4765,84.2,2.4,2,3,not recommended
+1044,Pyre,2294,1.7,7121,23,3.9,12,15,recommended
+1045,Q.U.B.E. Director's Cut,565,1.79,10414,10.6,3.3,3,4,recommended
+1046,Queen's Quest 2: Stories of Forgotten Past,1337,1.04,879,88.6,3,3,4,not recommended
+1047,Queen's Quest 3: The End of Dawn,1403,1.04,810,87.4,3.1,3,4,recommended
+1048,Quiplash,392,1.37,2310,13.7,3.3,0,1,recommended
+1049,Race The Sun,1158,3.67,40851,2.8,3,6,8,not recommended
+1050,Radio Squid,1341,1.04,540,86.5,2.2,0,1,not recommended
+1051,Radio Squid (EU),1347,1.04,660,85.6,1.9,0,1,not recommended
+1052,RAGE 2,3605,2.02,25508,1.3,3.4,20,25,recommended
+1053,Raging Loop,1449,1.07,820,83.5,3.6,0,1,recommended
+1054,Rainbow Moon,4095,3.03,26010,7.1,3.3,100,120,recommended
+1055,Random Heroes: Gold Edition,1402,1.04,858,90.7,2.6,1,2,not recommended
+1056,Random Heroes: Gold Edition (EU),1383,1.02,1191,93.7,1.7,1,2,not recommended
+1057,Ratchet & Clank,2071,1.53,165601,29.5,4.3,20,25,recommended
+1058,Real Farm,4622,3.62,2876,4.5,1.7,35,40,not recommended
+1059,Rebel Galaxy,2867,2.22,13041,11.4,3.3,40,50,recommended
+1060,Red Bow,1382,1.02,1132,93.6,2.3,0,1,not recommended
+1061,Red Bow (Asia),1363,1.01,481,97.3,0.5,0,1,not recommended
+1062,Red Bow (EU),1386,1.03,1959,93.5,1.4,0,1,not recommended
+1063,Red Death,1353,1.02,814,92.5,2.8,0,1,not recommended
+1064,Red Death (EU),1361,1.03,963,90.8,2.5,0,1,not recommended
+1065,Reed 2,1340,1.04,752,90.2,1.2,0,1,not recommended
+1066,Reed 2 (EU),1350,1.05,1003,88.4,0.8,0,1,not recommended
+1067,Reed Remastered,1408,1.04,1146,90.8,1.4,0,1,not recommended
+1068,Reed Remastered (Asia),1369,1.01,485,96.7,0.5,0,1,not recommended
+1069,Reed Remastered (EU),1407,1.04,1570,90.1,1.2,0,1,not recommended
+1070,Refunct,1447,1.12,1746,66.9,3.1,0,1,recommended
+1071,Reknum,1612,1.19,210,65.7,1.5,2,3,not recommended
+1072,Rememoried (EU),351,1.11,144,77.1,1.2,0,1,not recommended
+1073,Remnant: From the Ashes,3209,1.86,17236,0.9,3.7,35,40,recommended
+1074,Rep Kiss,1276,1.01,963,97.1,2.1,0,1,not recommended
+1075,République,2828,2.09,3727,20,3.4,12,15,recommended
+1076,Resident Evil,3268,2.59,95397,9,4.2,25,30,recommended
+1077,Resident Evil 0,2669,2.07,28999,14.2,3.9,20,25,recommended
+1078,Resident Evil 2,2516,1.78,99366,5.2,4.6,40,50,recommended
+1079,Resident Evil 3,1838,1.46,46851,34.8,4.1,15,20,recommended
+1080,Resident Evil 4,482,1.69,33595,15.7,4.5,25,30,recommended
+1081,Resident Evil 5,3268,1.96,42688,3.5,4.1,30,35,recommended
+1082,Resident Evil 6,5691,2.81,42156,2.6,3.5,50,60,recommended
+1083,Resident Evil 7 Biohazard,4246,2.32,114131,1.7,4.4,40,50,recommended
+1084,Resident Evil Resistance,4158,3.19,18069,5,2.9,40,50,not recommended
+1085,Resident Evil Revelations 2,3688,2.73,53596,7,3.8,35,40,recommended
+1086,RESOGUN,5964,2.92,100912,0.7,4.1,8,10,recommended
+1087,Retro City Rampage: DX,691,2.19,5721,9.2,3.7,5,6,recommended
+1088,Return of the Obra Dinn,1500,1.11,1926,65.8,4.2,8,10,recommended
+1089,Reverie,1434,1.13,778,74.8,3.7,6,8,recommended
+1090,Riddled Corpses EX,1829,1.37,1644,42.9,3.1,8,10,recommended
+1091,RIDE,2036,1.51,6356,34,3.4,15,20,recommended
+1092,RiME,1941,1.47,39055,41.6,3.5,8,10,recommended
+1093,Riptide GP: Renegade,2312,1.79,2790,22.8,3.3,15,20,recommended
+1094,Riptide GP2,1678,1.33,7324,51.9,3.2,8,10,recommended
+1095,Rise of the Tomb Raider,5995,2.6,123487,2.9,4.3,40,50,recommended
+1096,Risk of Rain,555,1.76,5956,6.6,4,8,10,recommended
+1097,Riverbond,1668,1.2,405,49.1,2.5,4,5,not recommended
+1098,Road Bustle,1369,1.01,7869,97.1,1.5,0,1,not recommended
+1099,Road Bustle (Asia),1359,1.01,1326,98.5,1.6,0,1,not recommended
+1100,Road Bustle (EU),1367,1.01,8948,97.1,1.5,0,1,not recommended
+1101,Road Not Taken,1316,4.18,23530,1.5,2.8,10,12,not recommended
+1102,Road Rage,1949,1.48,3033,34.9,1.8,8,10,not recommended
+1103,Robinson: The Journey,3064,2.32,2239,13.1,3.5,8,10,recommended
+1104,Robinson: The Journey (EU),2774,2.1,5753,16.6,3.4,8,10,recommended
+1105,Robozarro,1372,1.02,386,95.9,1.5,0,1,not recommended
+1106,ROCK BOSHERS DX: Director's Cut,635,2.01,1040,15.2,2.8,3,4,not recommended
+1107,Rocket League,5500,1.92,206979,2.2,4.2,15,20,recommended
+1108,ROCKETSROCKETSROCKETS,1418,1.07,1009,81.2,2.2,1,2,not recommended
+1109,ROCKETSROCKETSROCKETS (EU),1428,1.08,1214,79.3,2,1,2,not recommended
+1110,Rogue Aces,3587,2.66,11262,10.3,2.9,8,10,not recommended
+1111,Rogue Company,2971,2.28,29712,8.1,3.4,25,30,recommended
+1112,Rogue Galaxy,3129,2.34,8357,9.6,4.1,80,100,recommended
+1113,Rogue Legacy,3986,2.95,51090,5.3,3.9,20,25,recommended
+1114,Root Letter,1599,1.24,1502,61.7,3.3,15,20,recommended
+1115,Root Letter (EU),1604,1.24,1701,60.8,3.6,10,12,recommended
+1116,Roundout by POWGI (EU),1340,1.03,288,90.3,1.7,1,2,not recommended
+1117,Ruckus Rumble,331,1.1,140,77.1,2.2,0,1,not recommended
+1118,RUGBY 15,1485,1.18,647,68.5,2.2,4,5,not recommended
+1119,RUGBY 15 (EU),1595,1.27,1169,57.8,2.4,3,4,not recommended
+1120,Ruiner,3470,2.49,4885,5.3,3.8,12,15,recommended
+1121,Rune Lord,1457,1.08,703,77.1,2.5,2,3,not recommended
+1122,Rush Rover,1372,1.03,1242,90.6,3.2,0,1,recommended
+1123,Rush Rover (EU),1375,1.03,1710,89.8,1.9,0,1,not recommended
+1124,Sagebrush,1337,1.01,980,96.4,1.5,0,1,not recommended
+1125,Sagebrush (EU),1341,1.02,1224,95.8,2.2,0,1,not recommended
+1126,Saints Row IV: Re-Elected,3085,1.77,48850,14.5,4,35,40,recommended
+1127,Saints Row IV: Re-Elected (AU),2705,1.55,1525,21.5,4.2,35,40,recommended
+1128,Saints Row: Gat Out of Hell,2525,1.93,83184,17.5,3.4,20,25,recommended
+1129,Saints Row: The Third Remastered,3760,1.99,5469,10.2,3.5,30,35,recommended
+1130,Saints Row: The Third Remastered (EU),3175,1.68,5823,15.2,4.2,30,35,recommended
+1131,Sakura Wars,2353,1.87,6321,17.5,4.1,40,50,recommended
+1132,Salt and Sanctuary,2457,1.82,15505,19.4,4.3,20,25,recommended
+1133,Salt and Sanctuary (EU),2388,1.77,9661,21.1,4.1,15,20,recommended
+1134,SAMURAI SHODOWN,2546,1.93,6255,16.3,4.3,8,10,recommended
+1135,Samurai Warriors 4,3363,2.49,8957,6.7,4,120,150,recommended
+1136,Saturday Morning RPG,2626,1.95,2298,19.1,3.9,15,20,recommended
+1137,Save the Ninja Clan (EU),1674,1.24,783,57.3,3,4,5,not recommended
+1138,Scarlett Mysteries: Cursed Child,1370,1.04,335,86,3,2,3,not recommended
+1139,Scheming Through The Zombie Apocalypse: The Beginning,1464,1.08,531,82.5,2.1,1,2,not recommended
+1140,Scheming Through The Zombie Apocalypse: The Beginning (EU),1448,1.07,718,84.7,1.9,1,2,not recommended
+1141,Sea of Solitude,1666,1.29,2145,50.8,3.5,5,6,recommended
+1142,Sea of Solitude (EU),1673,1.3,3535,50.3,3.5,8,10,recommended
+1143,Seasons after Fall,1752,1.36,5708,49.2,3.4,6,8,recommended
+1144,Sébastien Loeb Rally Evo,2275,1.68,3940,27.4,3.1,40,50,recommended
+1145,Secret of Mana,2269,1.8,12396,22.8,3.7,25,30,recommended
+1146,SEGA Mega Drive & Genesis Classics,2634,2.04,8676,14.8,4,10,12,recommended
+1147,Sekiro: Shadows Die Twice,2102,1.67,83212,26.6,4.5,40,50,recommended
+1148,Senran Kagura Burst Re:Newal,1833,1.4,3281,42.5,3.9,15,20,recommended
+1149,Senran Kagura Estival Versus,1855,1.41,15656,39.5,3.8,20,25,recommended
+1150,Senran Kagura Peach Beach Splash,2125,1.63,10432,27.3,3.9,25,30,recommended
+1151,Shadow of Loot Box,1466,1.09,787,79.9,1.9,1,2,not recommended
+1152,Shadow of Loot Box (EU),1466,1.09,1405,79.4,2.1,1,2,not recommended
+1153,Shadow of the Beast,3509,2.6,9999,11.2,3.3,12,15,recommended
+1154,Shadow of the Colossus,3361,2.52,98007,10,4.2,20,25,recommended
+1155,Shadow of the Tomb Raider,4568,1.81,85037,4,4.2,40,50,recommended
+1156,Shadwen,1958,1.45,2281,42,3.6,10,12,recommended
+1157,Shantae and the Pirate's Curse,2600,1.97,3184,16.4,4.3,12,15,recommended
+1158,Shantae and the Seven Sirens,2407,1.78,925,17.9,4.4,15,20,recommended
+1159,Shantae: Half-Genie Hero,3767,1.95,4463,2.3,4.1,8,10,recommended
+1160,Sheltered,2881,2.16,1801,13.8,3.8,20,25,recommended
+1161,Shenmue,1742,1.35,12760,43.1,4.1,15,20,recommended
+1162,Shenmue II,1637,1.27,6641,51.2,4.1,15,20,recommended
+1163,Sherlock Holmes: Crimes and Punishments (2014),1656,1.28,19452,46.4,3.4,15,20,recommended
+1164,Sherlock Holmes: The Devil's Daughter,1498,1.16,15520,67,3.3,12,15,recommended
+1165,Shovel Knight,5574,3.41,20315,1,4.4,15,20,recommended
+1166,Shütshimi,628,2.09,11698,12.4,2.6,4,5,not recommended
+1167,Siegecraft Commander,1406,1.08,1108,81.6,1.9,1,2,not recommended
+1168,Siegecraft Commander (EU),1366,1.05,973,88.5,2.1,0,1,not recommended
+1169,Sigi - A Fart for Melusina,1458,1.09,2281,75.9,2.2,0,1,not recommended
+1170,Sigi - A Fart for Melusina (EU),1460,1.09,2361,74.6,2.3,0,1,not recommended
+1171,Skatemasta Tcheco,1334,1.03,630,90.2,1.5,0,1,not recommended
+1172,Skatemasta Tcheco (EU),1325,1.03,782,91.8,2,0,1,not recommended
+1173,Skulls of the Shogun: Bone-a-Fide Edition,1225,3.89,12975,1.5,3,12,15,not recommended
+1174,Sky Force Anniversary,638,2.02,24281,11.3,3.6,15,20,recommended
+1175,Skylar & Plux: Adventure on Clover Island,388,1.29,1187,37.2,3.3,4,5,recommended
+1176,SkyScrappers,1430,1.11,2588,74.3,2.3,1,2,not recommended
+1177,SkyScrappers (EU),1424,1.1,2743,74.7,2.3,1,2,not recommended
+1178,SkyTime (EU),1478,1.13,826,72.4,2.2,1,2,not recommended
+1179,Slayaway Camp: Butcher's Cut,1581,1.17,2166,65.2,3.3,4,5,recommended
+1180,Sleeping Dogs: Definitive Edition,3051,1.87,24106,13.2,4.2,30,35,recommended
+1181,Sleeping Dogs: Definitive Edition (EU),2677,1.64,31705,18,4.1,35,40,recommended
+1182,Slime Rancher,2889,2.14,6189,10.3,4,30,35,recommended
+1183,Slyde,1364,1.01,22605,97.9,1.7,0,1,not recommended
+1184,Small Radios Big Televisions,437,1.39,470,41.9,3.6,1,2,recommended
+1185,Snake Boat: Otterrific Arcade,1402,1.01,1597,93.4,1.4,0,1,not recommended
+1186,Snake Boat: Otterrific Arcade (EU),1403,1.01,1249,93.4,1.3,0,1,not recommended
+1187,Snakeybus,1454,1.14,1547,68.5,3,0,1,not recommended
+1188,Sniper Elite 3,4384,2.54,44247,3.1,3.5,20,25,recommended
+1189,Sniper Elite 4,6122,2.81,56205,1.4,3.8,35,40,recommended
+1190,Sniper: Ghost Warrior 3,2374,1.76,11104,22.1,3.5,30,35,recommended
+1191,SNK 40th Anniversary Collection,429,1.43,298,39.6,3.5,0,1,recommended
+1192,Soccer Pinball (EU),312,1.1,154,69.5,1.3,1,2,not recommended
+1193,SOMA,397,1.39,11937,44.2,4,8,10,recommended
+1194,SOMA (EU),376,1.32,16742,50.5,3.7,8,10,recommended
+1195,Song of the Deep,475,1.67,3403,25.8,3.9,6,8,recommended
+1196,Song of the Deep (EU),427,1.5,1537,34.9,3.6,12,15,recommended
+1197,Sonic Forces,4787,3.43,55777,3.9,3.3,20,25,recommended
+1198,Sonic Mania,1177,3.74,60466,2.6,3.9,4,5,recommended
+1199,SOULCALIBUR VI,2975,2.25,25100,9.8,4,25,30,recommended
+1200,Sound Shapes,3428,1.14,14395,44.4,3.3,8,10,recommended
+1201,Sound Shapes (Asia),3106,1.04,3991,77.6,3.2,0,1,recommended
+1202,Sound Shapes (EU),3444,1.15,16005,44.3,3.1,0,1,recommended
+1203,Sound Shapes (JP),3099,1.03,4320,78.9,3.1,0,1,recommended
+1204,South Park: The Fractured but Whole,1860,1.43,60340,29.6,4.2,25,30,recommended
+1205,South Park: The Stick of Truth,2160,1.6,38074,26.8,4.4,15,20,recommended
+1206,Sparkle 2 (PS4),795,2.52,11599,5.3,3.1,40,50,recommended
+1207,Spice and Wolf VR,333,1.06,261,67.8,0.5,0,1,not recommended
+1208,Spiral Splatter,1542,1.17,1495,69.3,2.2,1,2,not recommended
+1209,Spiral Splatter (EU),1542,1.17,1234,69.2,1.8,2,3,not recommended
+1210,Spirit Hunter: Death Mark,1722,1.28,991,53.2,4.6,3,4,recommended
+1211,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,1778,1.36,9887,44.9,4,12,15,recommended
+1212,Sportsfriends,465,1.63,11009,26.5,2.4,2,3,not recommended
+1213,Spy Chameleon,2932,2.25,18971,15.6,3,8,10,not recommended
+1214,Spyro 2: Ripto's Rage!,1590,1.23,50040,59.1,4.3,8,10,recommended
+1215,Spyro 3: Year of the Dragon,1536,1.15,40817,67.1,4.1,8,10,recommended
+1216,Spyro the Dragon,1689,1.28,73734,52.8,4.3,6,8,recommended
+1217,Squareboy vs Bullies: Arena Edition,1409,1.04,2586,87.6,1.9,1,2,not recommended
+1218,Squareboy vs Bullies: Arena Edition (EU),1425,1.06,4087,85.1,1.8,1,2,not recommended
+1219,STAR OCEAN: Integrity and Faithlessness,4488,3.48,16507,4.2,3.5,80,100,recommended
+1220,Star Wars Battlefront,6006,3.08,131983,1.7,3.6,50,60,recommended
+1221,Star Wars Battlefront II,3073,2.33,112995,6.3,3.6,120,150,recommended
+1222,Star Wars Episode I Racer,1627,1.25,3266,54.1,4,5,6,recommended
+1223,Star Wars Jedi: Fallen Order,2082,1.63,48198,24.9,4.1,35,40,recommended
+1224,Star Wars Jedi: Fallen Order (EU),1892,1.48,51657,32.5,4,25,30,recommended
+1225,Starlink: Battle for Atlas,2482,1.86,3365,18.2,3.7,25,30,recommended
+1226,Starwhal (EU),6745,5.35,6535,2.4,2.5,15,20,not recommended
+1227,Statik,486,1.54,6304,10.8,4.2,5,6,recommended
+1228,SteamWorld Dig,1389,4.63,39974,1.6,3.3,6,8,recommended
+1229,STEEP,5801,3.42,67780,0.8,3.5,30,35,recommended
+1230,Steins;Gate 0,1459,1.16,3873,70.9,4,1,2,recommended
+1231,Steins;Gate 0 (JP),1410,1.12,4339,74.9,3,1,2,not recommended
+1232,Steins;Gate 0 (KR),1296,1.03,834,92,2.1,0,1,not recommended
+1233,Steins;Gate Elite,1619,1.24,1431,62,4.4,25,30,recommended
+1234,Steins;Gate: My Darling's Embrace,1467,1.16,550,69.1,4.4,2,3,recommended
+1235,Stick It To The Man,437,1.39,23551,33.8,3.3,5,6,recommended
+1236,Stikbold! A Dodgeball Adventure,2809,2.13,4865,16.4,3.1,8,10,recommended
+1237,Stories: The Path of Destinies,2256,1.67,36176,20,3.5,15,20,recommended
+1238,Storm Boy,1304,1.01,3819,97.5,2.6,0,1,not recommended
+1239,Storm Boy (EU),1299,1.01,5841,98.4,2.4,0,1,not recommended
+1240,Strange Brigade,3081,1.68,7806,6.5,3.7,15,20,recommended
+1241,Strawberry Vinegar,1365,1.01,888,97.4,2.2,0,1,not recommended
+1242,Strawberry Vinegar (EU),1366,1.01,964,97.3,2.1,0,700,not recommended
+1243,Stretch Arcade,1529,1.13,1577,71,2.4,0,1,not recommended
+1244,Stretch Arcade (EU),1502,1.11,1340,74.6,2,0,1,not recommended
+1245,Stretch Arcade (HK/TW),1408,1.04,400,89.3,1.2,0,1,not recommended
+1246,Strider,2914,2.29,56794,11,3.4,12,15,recommended
+1247,Submerged,357,1.25,1854,47.5,3.2,6,8,recommended
+1248,Submerged (EU),343,1.21,1241,51.7,3,5,6,not recommended
+1249,Subnautica,2431,1.82,11677,23.3,3.9,35,40,recommended
+1250,Suicide Guy,1337,1.06,1943,83.2,2.6,3,4,not recommended
+1251,Suicide Guy (EU),1331,1.06,2934,85.3,2.1,2,3,not recommended
+1252,Suicide Guy: Sleepin' Deeply (EU),1368,1.06,1510,85,2.3,1,2,not recommended
+1253,Super Box Land Demake,1313,1.02,1863,95.1,2.3,0,1,not recommended
+1254,Super Box Land Demake (Asia),1302,1.01,722,97.5,0.5,0,1,not recommended
+1255,Super Box Land Demake (EU),1313,1.02,2451,95.1,1.7,0,1,not recommended
+1256,Super Destronaut DX,1361,1.01,6279,97.9,2.7,0,1,not recommended
+1257,Super Destronaut DX (Asia),1355,1,2607,99,2.2,0,1,not recommended
+1258,Super Destronaut DX (EU),1360,1.01,9530,98,2.7,0,1,not recommended
+1259,Super Destronaut: Land Wars,1322,1.02,1737,93.8,2.5,0,1,not recommended
+1260,Super Destronaut: Land Wars (Asia),1301,1.01,596,97.8,0.5,0,1,not recommended
+1261,Super Destronaut: Land Wars (EU),1318,1.02,2317,94.6,2.2,0,1,not recommended
+1262,Super Exploding Zoo,2371,1.88,30352,22.8,2.8,5,6,not recommended
+1263,Super Kids Racing,308,1.02,1236,94.3,1.2,0,1,not recommended
+1264,Super Kids Racing (EU),305,1.02,748,95.6,1,0,1,not recommended
+1265,Super Korotama (EU),1446,1.1,309,76.1,2.8,1,2,not recommended
+1266,Super Star Wars,719,2.28,4682,9.9,3.6,4,5,recommended
+1267,Super Time Force Ultra,3745,2.97,22360,7.1,3.5,15,20,recommended
+1268,Super Toy Cars,453,1.51,1010,27.9,2.3,6,8,not recommended
+1269,Super Weekend Mode,1304,1.01,3917,96.6,2.2,0,1,not recommended
+1270,Super Weekend Mode (Asia),1298,1.01,1493,98.4,2.5,0,1,not recommended
+1271,Super Weekend Mode (EU),1305,1.01,5319,95.8,2.4,0,1,not recommended
+1272,Super Wiloo Demake,1365,1.01,2431,97.2,1.6,0,1,not recommended
+1273,Super Wiloo Demake (Asia),1357,1.01,978,98.8,1,0,1,not recommended
+1274,Super Wiloo Demake (EU),1366,1.01,3402,97.1,1.8,0,1,not recommended
+1275,SUPERHOT: MIND CONTROL DELETE,2023,1.55,2481,24,3.6,12,15,recommended
+1276,Survive! Mr.Cube,1381,1.02,852,91.4,2.4,4,5,not recommended
+1277,Sushi Break (EU),1328,1.05,465,83,2.5,1,2,not recommended
+1278,SwapQuest,1881,1.39,886,47.4,3.4,10,700,recommended
+1279,Sword Art Online: Hollow Realization,3405,2.58,11344,8.5,3.9,100,120,recommended
+1280,Sword Art Online: Lost Song,2399,1.88,16566,18.2,3.8,50,60,recommended
+1281,Swordbreaker The Game,1356,1.02,724,96,2.5,0,1,not recommended
+1282,Swordbreaker The Game (EU),1365,1.02,970,94.4,1.6,0,1,not recommended
+1283,Syrup and the Ultimate Sweet,1334,1.01,1776,97.6,1.9,0,1,not recommended
+1284,Syrup and the Ultimate Sweet (Asia),1329,1.01,839,98.7,2.2,0,1,not recommended
+1285,Syrup and the Ultimate Sweet (EU),1334,1.01,2254,97.8,2.2,0,1,not recommended
+1286,Table Top Racing: World Tour,3589,2.44,87316,1.1,3.1,12,15,recommended
+1287,Tacoma,1370,1.09,3291,80.9,3.2,1,2,recommended
+1288,Takotan,1345,1.02,354,95.2,0.5,1,2,not recommended
+1289,Tales from the Borderlands,1479,1.1,12296,71.9,4.1,8,10,recommended
+1290,Tales from the Borderlands (PS4) (Digital),1499,1.11,92087,70.5,4.2,1,2,recommended
+1291,Tales of Berseria,3216,2.38,26126,8.6,4.2,120,150,recommended
+1292,Tales of Vesperia: Definitive Edition,3338,2.47,10288,8.3,4.7,150,200,recommended
+1293,Tales of Zestiria,4506,2.92,23832,3.9,3.8,80,100,recommended
+1294,Tamiku,1326,1.03,678,93.4,3.3,0,1,recommended
+1295,Tamiku (EU),1320,1.02,841,94.3,3.2,0,1,recommended
+1296,Task Force Kampas,1386,1.03,784,91.1,1.8,0,1,not recommended
+1297,Task Force Kampas (Asia),1365,1.01,434,96.8,0.5,0,1,not recommended
+1298,Task Force Kampas (EU),1386,1.03,920,91.5,1,0,1,not recommended
+1299,Task Force Kampas (JP),1369,1.01,535,96.3,0.5,0,1,not recommended
+1300,Tearaway Unfolded,3329,2.47,41479,11.7,3.7,20,25,recommended
+1301,Tekken 7,1858,1.38,64736,36.5,3.9,8,10,recommended
+1302,Tennis in the Face,458,1.45,4351,36.4,3,3,4,not recommended
+1303,TERA,3862,2.96,27345,6.5,3.2,25,30,recommended
+1304,Terminator Resistance,1470,1.13,6773,70.9,3.3,8,10,recommended
+1305,Tesla vs Lovecraft,1589,1.23,2057,47.6,3.4,12,15,recommended
+1306,Teslagrad,1712,1.36,29660,48.7,3.1,4,5,recommended
+1307,TETRA's Escape,1385,1.03,3001,93.9,2.6,1,2,not recommended
+1308,TETRA's Escape (Asia),1371,1.02,1465,96.2,2.1,1,2,not recommended
+1309,TETRA's Escape (EU),1388,1.03,5069,93.5,2.2,1,2,not recommended
+1310,That Trivia Game,476,1.59,1253,27.4,2,0,1,not recommended
+1311,That Trivia Game (EU),520,1.73,1574,21.5,1.8,0,1,not recommended
+1312,That's You!,3779,2.93,39522,3.9,3.2,15,20,recommended
+1313,The 25th Ward: The Silver Case,1725,1.28,482,50.8,3.1,25,30,recommended
+1314,The Amazing Spider-Man 2,2122,1.61,17319,23.7,3,15,20,not recommended
+1315,The Binding of Isaac: Rebirth,5150,2.96,23668,1,4.4,150,200,recommended
+1316,The Book of Unwritten Tales 2,1898,1.49,4806,39.7,3.5,20,25,recommended
+1317,The Bridge,677,2.15,9504,13.1,3.2,8,10,recommended
+1318,The Bunker,1410,1.08,9793,79.7,3.2,2,3,recommended
+1319,The Chantry,325,1.03,145,86.9,2.7,0,1,not recommended
+1320,The Complex,1419,1.13,2132,71.3,3.6,2,3,recommended
+1321,The Council,2001,1.48,5891,30.9,3.8,15,700,recommended
+1322,The Crew 2,2268,1.8,28957,19.4,3.4,25,30,recommended
+1323,The Dark Pictures Anthology: Little Hope,2840,2.18,8206,11,3.3,25,30,recommended
+1324,The Dark Pictures Anthology: Man Of Medan,3277,2.51,23446,8.1,3.5,25,30,recommended
+1325,The Deadly Tower of Monsters,1940,1.54,34267,38.3,3.2,5,6,recommended
+1326,The Elder Scrolls V: Skyrim Special Edition,3280,1.82,80936,7.6,4.6,100,120,recommended
+1327,The Elder Scrolls V: Skyrim VR,8207,4.56,18031,1.4,4.3,60,80,recommended
+1328,The Escapists,5660,3.07,12030,2.3,3.4,20,25,recommended
+1329,The Evil Within,4736,2.45,56957,3.2,4,50,60,recommended
+1330,The Evil Within 2,2480,1.84,40775,14.2,4,30,35,recommended
+1331,The Fall,433,1.44,1761,26.6,3.3,2,3,recommended
+1332,The Gardens Between,1380,1.07,1199,85,3.3,1,2,recommended
+1333,The Grand Tour Game,3160,1.55,2432,22.5,3.8,15,20,recommended
+1334,The House In Fata Morgana,1471,1.17,460,70.4,3.4,0,1,recommended
+1335,The Inner World - The Last Wind Monk,1326,1.04,415,90.4,3.5,4,5,recommended
+1336,The Inner World - The Last Wind Monk (EU),1348,1.06,1054,85.2,3.3,2,3,recommended
+1337,The Inner World (EU),1350,1.05,1634,88.8,3.2,2,3,recommended
+1338,The Inpatient,2694,2.09,6270,13.5,3.1,6,8,recommended
+1339,The Invisible Hours,1855,1.44,1983,41.5,3.8,5,6,recommended
+1340,The Keeper of 4 Elements,629,2,604,13.4,2.6,8,10,not recommended
+1341,The King of Fighters 2000,473,1.58,2195,30.7,3.7,3,4,recommended
+1342,The Language of Love,1366,1.01,697,97.6,3.3,0,1,recommended
+1343,The Language of Love (EU),1360,1.01,798,98.2,2.8,0,1,not recommended
+1344,The Last Blade 2,378,1.2,3004,58.1,3.5,2,3,recommended
+1345,The Last Campfire,1495,1.16,1578,70.3,3.9,5,6,recommended
+1346,The Last Guardian,3435,2.69,31767,8.1,3.8,25,30,recommended
+1347,The Last of Us Part II,2407,1.76,141018,2.3,4.4,30,35,recommended
+1348,The Last of Us Remastered,4440,2.24,199393,7.2,4.7,50,60,recommended
+1349,The Last Remnant Remastered,2604,1.95,1999,15.7,3.5,60,80,recommended
+1350,The Legend of Heroes: Trails of Cold Steel,2956,2.19,7595,12.1,4.5,100,120,recommended
+1351,The Legend of Heroes: Trails of Cold Steel (EU),2664,1.97,3926,16.3,4.5,100,120,recommended
+1352,The Legend of Heroes: Trails of Cold Steel (JP),2172,1.61,7695,26.7,3.8,80,100,recommended
+1353,The Legend of Heroes: Trails of Cold Steel II,2243,1.66,5007,21.8,4.6,80,100,recommended
+1354,The Legend of Heroes: Trails of Cold Steel II (JP),1921,1.42,4851,34.3,3.6,80,100,recommended
+1355,The Legend of Heroes: Trails of Cold Steel III,2050,1.52,3247,23.2,4.4,60,80,recommended
+1356,The Legend of Korra,1988,1.58,9063,29.7,3.2,10,12,recommended
+1357,The LEGO Movie 2 Videogame,1691,1.3,3920,49.5,3.3,15,20,recommended
+1358,The LEGO Movie Videogame,1838,1.39,15767,41.4,3.6,15,20,recommended
+1359,The LEGO Movie Videogame (DE),1701,1.29,3350,50.5,3.7,12,15,recommended
+1360,The LEGO NINJAGO Movie Video Game,2103,1.63,24130,29.4,3.5,15,20,recommended
+1361,The Little Acre,1402,1.07,7215,82.1,3.2,1,2,recommended
+1362,The Long Reach,1436,1.06,1185,85.9,2.7,1,2,not recommended
+1363,The Long Reach (EU),1452,1.08,1969,83.5,2.9,1,2,not recommended
+1364,The Messenger,2015,1.48,2197,19.9,4.4,10,12,recommended
+1365,The Mooseman,1351,1.07,834,84.8,3.3,1,2,recommended
+1366,The Mooseman (EU),1343,1.07,945,85.1,2,1,2,not recommended
+1367,The Mummy Demastered,1944,1.44,1889,35.5,3.9,6,8,recommended
+1368,The Order: 1886,1633,1.21,120792,54.6,3.6,8,10,recommended
+1369,The Outer Worlds,3486,2.4,41877,0.9,4.1,40,50,recommended
+1370,The Park,339,1.07,4294,68.2,2.9,0,1,not recommended
+1371,The Path of Motus,1290,1.02,617,93.4,1.5,3,4,not recommended
+1372,The Peanuts Movie: Snoopy's Grand Adventure,1622,1.22,4534,55.2,2.9,8,10,not recommended
+1373,The Perplexing Orb,1430,1.06,573,86.4,2.5,0,1,not recommended
+1374,The PlayRoom,740,1.5,68368,6,3,0,1,not recommended
+1375,The Playroom VR,3393,2.43,57981,6.3,3.5,4,5,recommended
+1376,The Room VR: A Dark Matter,367,1.22,600,60.7,4.5,3,4,recommended
+1377,The Sexy Brutale,1582,1.26,5178,55.7,3.7,5,6,recommended
+1378,The Silver Case,1787,1.35,1300,47.3,3.3,15,20,recommended
+1379,The Sims 4,2738,2.1,43443,17.7,3.2,3,4,recommended
+1380,The Sinking City,2159,1.67,6671,27.3,3.4,25,30,recommended
+1381,The Station,336,1.12,227,67,3.2,0,1,recommended
+1382,The Station (EU),335,1.12,240,67.9,1.8,0,1,not recommended
+1383,The Suicide of Rachel Foster (EU),1386,1.07,440,76.8,3.2,2,3,recommended
+1384,The Surge,4295,2.65,55165,1.4,3.4,40,50,recommended
+1385,The Swapper,351,1.17,17246,68.9,3.5,2,3,recommended
+1386,The Talos Principle,2423,1.79,9072,20.1,4.2,20,25,recommended
+1387,The Town of Light,1490,1.14,5004,70.4,3.1,2,3,recommended
+1388,The Unfinished Swan,597,1.9,28927,18.9,3.4,2,3,recommended
+1389,The Vanishing of Ethan Carter,354,1.18,14041,56.1,3.6,2,3,recommended
+1390,The Walking Dead,1732,1.12,52120,51.6,4.4,10,12,recommended
+1391,The Walking Dead Collection - The Telltale Series,1573,1.22,3628,59.4,4.3,35,40,recommended
+1392,The Walking Dead: A New Frontier,1322,1.04,30607,87.2,4,1,2,recommended
+1393,The Walking Dead: Michonne,324,1.03,20260,87.5,3.7,1,2,recommended
+1394,The Walking Dead: Season Two,1161,1.12,69102,72.4,4,8,10,recommended
+1395,The Walking Dead: The Final Season,1655,1.31,5332,35.5,4.2,2,3,recommended
+1396,The Walking Dead: The Final Season (EU),1603,1.27,5095,39.4,4.3,12,15,recommended
+1397,The Walking Dead: The Final Season (EU) (Physical),1481,1.18,2358,57.1,4.1,8,10,recommended
+1398,The Walking Dead: The Final Season (Physical),1464,1.16,788,60.2,3.5,8,10,recommended
+1399,The Walking Dead: The Telltale Definitive Series (EU),1631,1.28,2122,52.1,4.7,30,35,recommended
+1400,The Wardrobe,1516,1.14,398,74.9,4.1,1,2,recommended
+1401,The Warriors,801,2.54,6584,9.2,4.2,12,15,recommended
+1402,The Witcher 3: Wild Hunt,3253,1.87,143548,5.9,4.7,80,100,recommended
+1403,The Witcher 3: Wild Hunt – Complete Edition,3736,2.15,22975,7.3,4.8,80,100,recommended
+1404,The Witcher 3: Wild Hunt – Game of the Year Edition (EU),3155,1.81,35129,11.9,4.7,120,150,recommended
+1405,The Witness,2187,1.62,37711,17.9,4,20,25,recommended
+1406,The Wolf Among Us,1470,1.15,42787,66.2,4.3,8,10,recommended
+1407,The World of Nubla,1270,1.01,1513,98.1,2.4,0,1,not recommended
+1408,The World of Nubla (EU),1295,1.03,6771,93.4,2.1,0,1,not recommended
+1409,Theme Park Simulator: Rollercoaster Paradise,1297,1.01,385,98.7,0.5,0,1,not recommended
+1410,Theme Park Simulator: Rollercoaster Paradise (EU),1302,1.01,549,97.3,1.2,0,1,not recommended
+1411,Thief,3972,2.94,43110,7,3.4,35,40,recommended
+1412,This War of Mine: The Little Ones,2928,2.3,36672,11.3,3.8,20,25,recommended
+1413,Thomas Was Alone,415,1.32,32005,46.6,3.7,3,4,recommended
+1414,Three Fourths Home: Extended Edition,320,1.12,2801,69.9,2.5,1,2,not recommended
+1415,Three Fourths Home: Extended Edition (EU),309,1.08,1090,78.4,2.1,0,1,not recommended
+1416,Thronebreaker: The Witcher Tales,2070,1.53,6366,27.1,3.7,25,30,recommended
+1417,Thumper,4753,3.77,11496,4.4,4.1,20,25,recommended
+1418,Thunder Paw,1397,1.03,1104,91.9,1.2,0,1,not recommended
+1419,Thunder Paw (EU),1392,1.03,1497,92.6,1.3,0,1,not recommended
+1420,Tic-Tac-Letters by POWGI,1337,1.01,926,97,1,0,1,not recommended
+1421,Tic-Tac-Letters by POWGI (EU),1338,1.01,1423,96.6,1.7,0,1,not recommended
+1422,Timber Tennis: Versus,1823,1.45,792,39.3,2.4,8,10,not recommended
+1423,Tina's Toy Factory,364,1.21,1343,46.6,2.4,2,3,not recommended
+1424,Tiny Troopers Joint Ops,907,2.08,17872,6.7,2.9,6,8,not recommended
+1425,Titan Attacks!,444,1.41,25017,33.9,3.1,2,3,recommended
+1426,Titan Souls,5975,4.43,26847,3.4,3.4,15,20,recommended
+1427,Titanfall 2,2559,1.94,125923,12.1,4.3,15,20,recommended
+1428,Tokyo Xanadu eX+,3351,2.48,5400,8.8,4.4,60,80,recommended
+1429,Tom Clancy's Ghost Recon Breakpoint,2499,1.87,29021,14.8,3.2,40,50,recommended
+1430,Tom Clancy's Ghost Recon Wildlands,3330,1.98,82422,2.7,3.7,60,80,recommended
+1431,Tom Clancy's Rainbow Six Siege (PS4),2276,1.69,105056,15.3,4.1,60,80,recommended
+1432,Tom Clancy's The Division,3417,2,133058,0.8,3.7,60,80,recommended
+1433,Tom Clancy's The Division 2,3903,2.37,80884,0.8,3.9,60,80,recommended
+1434,Tomb Raider - Definitive Edition,2662,2.04,88408,10.2,4.3,40,50,recommended
+1435,Tonari ni Kanojo no Iru Shiawase ~Two Farce~,305,1.02,705,96.2,2.2,0,1,not recommended
+1436,Tonari ni Kanojo no Iru Shiawase ~Winter Guest~,303,1.01,597,97.7,2.8,0,1,not recommended
+1437,Torchlight II,2480,1.97,4282,14.1,3.7,40,50,recommended
+1438,Toren,403,1.28,1830,47.4,2.7,2,3,not recommended
+1439,Toren (EU),384,1.22,1495,54.4,2.4,2,3,not recommended
+1440,Touhou: Scarlet Curiosity,503,1.6,1883,30.5,3.4,8,10,recommended
+1441,Tower of Dragonasia,1365,1.01,2502,97.4,1.6,0,1,not recommended
+1442,Tower of Guns,984,3.12,25277,4.9,2.7,6,8,not recommended
+1443,Trackmania Turbo,8526,6.46,72804,0.8,3.5,60,80,recommended
+1444,Transference,358,1.26,984,24.8,3.4,0,1,recommended
+1445,Transformers: Rise of the Dark Spark,2653,1.97,4972,15.9,2.9,20,25,not recommended
+1446,Transistor,2790,2.19,64194,17.3,3.9,12,15,recommended
+1447,Trials of Mana,1893,1.4,7888,37.3,4,50,60,recommended
+1448,Tricky Towers,6008,4.55,36311,1.9,3,25,30,not recommended
+1449,Trine 2: Complete Story,5324,3.94,24024,3.3,3.4,20,25,recommended
+1450,Trine 2: Complete Story (EU),4602,3.41,34052,4.5,3.5,40,50,recommended
+1451,Trine 3: The Artifacts of Power,1565,1.2,10332,64.2,3.3,4,5,recommended
+1452,Trine 4: The Nightmare Prince,1838,1.39,4924,45.6,4,10,12,recommended
+1453,Trine Enchanted Edition,2251,1.67,11517,27.9,3.7,12,15,recommended
+1454,TRIVIAL PURSUIT LIVE! (EU),734,2.33,8214,4.8,3.4,10,12,recommended
+1455,Tropico 5,5059,2.91,48208,1.1,3.6,30,35,recommended
+1456,Tropico 6,3199,2.48,2071,9.1,4.4,40,50,recommended
+1457,Trover Saves the Universe,2149,1.56,5638,14.7,4.1,8,10,recommended
+1458,Trüberbrook,1559,1.17,847,62.6,3.3,3,4,recommended
+1459,Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~,1301,1.01,518,98.3,2.1,0,1,not recommended
+1460,Twin Breaker: A Sacred Symbols Adventure,1929,1.46,1994,36.4,3.4,8,10,recommended
+1461,Twin Robots,1486,1.1,1932,77.2,2.3,2,3,not recommended
+1462,Twin Robots (EU),1488,1.1,2998,76.8,2.3,3,4,not recommended
+1463,Twisted Metal: Black,581,1.84,3888,19,3.8,6,8,recommended
+1464,Type:Rider,575,1.83,15789,17.6,2.8,3,4,not recommended
+1465,Typoman: Revised (EU),2171,1.68,805,26,3,10,12,not recommended
+1466,Ultratron,593,1.88,15139,14.3,2.8,4,5,not recommended
+1467,Uncanny Valley,520,1.65,6645,28.4,2.2,2,3,not recommended
+1468,Uncharted 2: Among Thieves Remastered,2850,1.86,135195,4.6,4.5,20,25,recommended
+1469,Uncharted 3: Drake's Deception Remastered,2835,1.84,118362,5.1,4.3,15,20,recommended
+1470,Uncharted 4: A Thief's End,3268,2.14,241211,1.5,4.6,25,30,recommended
+1471,Uncharted: Drake's Fortune Remastered,2904,1.92,171186,4.9,4.1,20,25,recommended
+1472,Uncharted: The Lost Legacy,2210,1.64,113045,27.6,4.3,15,20,recommended
+1473,Undertale,1600,1.27,22581,55.2,3.9,4,5,recommended
+1474,Unearthing Mars,397,1.32,373,31.9,1.8,1,2,not recommended
+1475,Unmechanical: Extended,527,1.67,12552,23.8,3.2,2,3,recommended
+1476,UNO,771,2.45,26395,6.1,3.6,5,6,recommended
+1477,Unravel,2396,1.81,37563,21.5,4,10,12,recommended
+1478,Until Dawn,2048,1.55,135672,33.1,4.2,15,20,recommended
+1479,Untitled Goose Game,2036,1.51,7087,30.7,4.1,6,8,recommended
+1480,Utawarerumono: Prelude to the Fallen,1817,1.44,360,33.1,3.9,35,40,recommended
+1481,Valentino Rossi: The Game,2243,1.72,2355,23.5,3.4,35,40,recommended
+1482,Valiant Hearts: The Great War,466,1.48,77519,16.7,4,6,8,recommended
+1483,Valkyria Chronicles 4,2363,1.75,9030,23.3,4.4,60,80,recommended
+1484,Valkyria Chronicles Remastered,2084,1.58,6529,31.6,4.4,40,50,recommended
+1485,Valley,2132,1.65,2361,27.3,3.2,10,12,recommended
+1486,Valthirian Arc: Hero School Story,2272,1.8,1694,21.7,3.1,30,35,recommended
+1487,Vampyr,3113,2.31,54188,11.1,3.5,20,25,recommended
+1488,Velocity 2X,6942,3.99,55704,0.7,3.5,12,15,recommended
+1489,Vera Blanc: Full Moon (EU),1301,1.01,426,96.7,2.5,0,1,not recommended
+1490,Virginia,1536,1.16,13161,70.3,3.1,3,4,recommended
+1491,Volume,2021,1.5,6073,39.7,3.5,8,10,recommended
+1492,Vostok Inc,1740,1.33,1838,40.2,3.7,15,20,recommended
+1493,War of the Monsters,679,2.16,4347,9.6,3.3,4,5,recommended
+1494,War Theatre: Blood of Winter,1405,1.12,1391,77.6,2,1,2,not recommended
+1495,Warframe (PS4),7883,3.6,111203,0.3,3.5,35,40,recommended
+1496,Warlock's Tower,1381,1.03,1181,91.6,1.2,1,2,not recommended
+1497,Warlock's Tower (Asia),1349,1.01,711,97.7,1.2,0,1,not recommended
+1498,Warlock's Tower (EU),1370,1.03,1574,93.7,2,1,2,not recommended
+1499,Warriors Orochi 4,2500,1.62,7632,2.1,4,60,80,recommended
+1500,Watch Dogs: Legion (PS4),2577,1.95,19404,15.2,3.5,35,40,recommended
+1501,Watch_Dogs,2849,1.94,141823,3.4,3.6,40,50,recommended
+1502,Watch_Dogs 2,2398,1.6,104417,3,4,25,30,recommended
+1503,Wattam,2701,2,1401,17.4,3.6,4,5,recommended
+1504,WE ARE DOOMED,1560,4.95,3902,2.3,2.3,8,10,not recommended
+1505,Weeping Doll,374,1.19,1501,47,2.1,1,2,not recommended
+1506,What Remains of Edith Finch,360,1.2,18418,49.3,4.2,2,3,recommended
+1507,What Remains of Edith Finch (EU),356,1.19,21455,50.9,4,2,3,recommended
+1508,Wheel of Fortune,577,1.83,2980,10.1,2.5,8,10,not recommended
+1509,Wheels of Aurelia,1459,1.16,1749,67.5,2.5,5,6,not recommended
+1510,Wheels of Aurelia (EU),1440,1.14,1791,69.6,2.5,6,8,not recommended
+1511,Where the Bees Make Honey,1388,1.03,501,53.3,0.9,0,1,not recommended
+1512,Whispering Willows,393,1.25,2669,50.1,3,1,2,not recommended
+1513,White Night,2276,1.76,3526,26.4,3.5,8,10,recommended
+1514,Whiteboyz Wit Attitude: The Pursuit of Money,769,1.55,946,11.4,1.4,0,1,not recommended
+1515,Whiteboyz Wit Attitude: The Pursuit of Money (EU),778,1.57,784,11.5,1.3,0,1,not recommended
+1516,Wild Arms 3,2750,2.16,2304,16,4.4,60,80,recommended
+1517,Without Escape,1333,1.01,1166,97,0.5,0,1,not recommended
+1518,Without Escape (EU),1338,1.01,1826,96.1,2,0,1,not recommended
+1519,Wolfenstein: The New Order,2099,1.55,93084,26.6,4.2,15,20,recommended
+1520,Wolfenstein: The Old Blood,2278,1.69,45881,22,3.9,15,20,recommended
+1521,Wolfenstein: Youngblood,2638,1.95,11620,14.3,3.1,40,50,recommended
+1522,Wonder Boy: The Dragon's Trap,543,1.9,4997,14.8,3.9,6,8,recommended
+1523,Woodle Tree Adventures (EU),379,1.2,204,57.8,1.5,1,2,not recommended
+1524,Word Maze by POWGI,1382,1.05,961,89.9,2,1,2,not recommended
+1525,Word Maze by POWGI (EU),1363,1.03,1464,92.8,2.2,1,2,not recommended
+1526,Word Search by POWGI,1665,1.26,1792,54.8,3.6,12,15,recommended
+1527,Word Search by POWGI (EU),1656,1.25,2914,55.8,2.6,15,20,not recommended
+1528,Word Sudoku by POWGI,1393,1.06,1702,88.4,2.5,1,2,not recommended
+1529,Word Sudoku by POWGI (EU),1378,1.04,2787,90.3,2.3,1,2,not recommended
+1530,Word Wheel by POWGI,1387,1.04,1062,91.4,2.9,1,2,not recommended
+1531,Word Wheel by POWGI (EU),1368,1.02,1645,94.2,2.9,1,2,not recommended
+1532,Wordsweeper by POWGI,1399,1.06,758,83,2.8,3,4,not recommended
+1533,Wordsweeper by POWGI (EU),1373,1.04,1210,87.8,2.6,2,3,not recommended
+1534,World End Syndrome (EU),1453,1.14,589,73,3.6,25,30,recommended
+1535,World of Final Fantasy,2765,2.05,31677,14,4,60,80,recommended
+1536,World War Z,4138,3.28,30474,4.1,3.6,100,120,recommended
+1537,WRC 5,1930,1.53,6824,32.5,3.4,20,25,recommended
+1538,Wreckfest,2651,2.06,13724,14.7,4.1,15,20,recommended
+1539,Xeodrifter: Special Edition,546,1.73,6239,18.8,2.8,3,4,not recommended
+1540,Xeodrifter: Special Edition (EU),603,1.91,6385,15.1,3,2,3,not recommended
+1541,Yakuza 0,3978,2.95,42724,4.4,4.5,150,200,recommended
+1542,Yakuza 3 Remastered,3628,2.78,7428,6.3,4,120,150,recommended
+1543,Yakuza 4 Remastered,3116,2.33,4680,9.5,4.3,60,80,recommended
+1544,Yakuza 6: The Song of Life,2207,1.63,16084,20,4.6,40,50,recommended
+1545,Yakuza Kiwami,4386,3.25,54605,3.6,4.3,60,80,recommended
+1546,Yakuza Kiwami 2,2685,1.99,15111,11,4.6,60,80,recommended
+1547,Yakuza: Like a Dragon,2710,2.01,7272,9.4,4.8,60,80,recommended
+1548,Yesterday Origins,1863,1.41,2372,39.5,3.5,3,4,recommended
+1549,Yoku's Island Express,1790,1.37,2760,40.4,4,15,20,recommended
+1550,Yooka-Laylee,2269,1.76,17479,24,3.6,20,25,recommended
+1551,Yooka-Laylee and the Impossible Lair,2075,1.54,3746,28.3,3.9,15,20,recommended
+1552,Ys VIII: Lacrimosa of DANA (EU),2288,1.7,3676,18.5,4.4,60,80,recommended
+1553,Ys: Memories of Celceta,2948,2.18,12253,12.3,4.2,40,50,recommended
+1554,Yu-Gi-Oh! Legacy of the Duelist,500,1.59,16266,9.7,4,25,30,recommended
+1555,Yumeutsutsu Re:After (JP),1297,1.02,297,96.6,2,0,1,not recommended
+1556,Yumeutsutsu Re:Idol,304,1.01,468,96.2,3.5,0,1,recommended
+1557,Zero Escape: The Nonary Games,1682,1.25,5061,56.9,4.4,35,40,recommended
+1558,Zero Escape: Zero Time Dilemma,1504,1.19,10324,66.8,4,20,25,recommended
+1559,Zero Strain (EU),1392,1.03,283,91.5,3.2,0,1,recommended
+1560,Zero Zero Zero Zero,1339,1.04,998,87.2,0.5,0,1,not recommended
+1561,Zero Zero Zero Zero (Asia),1308,1.01,439,94.8,0.5,0,1,not recommended
+1562,Zero Zero Zero Zero (EU),1340,1.04,1282,86.8,2.1,0,1,not recommended
+1563,Zeroptian Invasion,1324,1.03,2737,90.6,2.1,0,1,not recommended
+1564,Zeroptian Invasion (Asia),1303,1.01,1259,96.3,1.9,0,1,not recommended
+1565,Zeroptian Invasion (EU),1330,1.03,3835,88.8,2,0,1,not recommended
+1566,Zeus Quest Remastered,1359,1.04,674,90.1,1.8,2,3,not recommended
+1567,Zeus Quest Remastered (EU),1348,1.03,714,91,1.3,1,2,not recommended
+1568,ZOMBI,3953,3,76429,5.3,2.9,20,25,not recommended
+1569,Zombie Army Trilogy,2665,1.97,24058,14.1,3.7,30,35,recommended
+1570,.hack//G.U. Last Recode,2522,1.87,7840,16.6,4.1,80,100,recommended
+1571,1000 Top Rated,1379,1.02,2995,94.8,1.9,0,1,not recommended
+1572,101 Ways to Die,2045,1.58,2151,30.9,3.3,10,12,recommended
+1573,11-11 Memories Retold,1863,1.41,2261,42.4,4.1,10,12,recommended
+1574,112th Seed,1365,1.01,774,97.2,1.5,0,1,not recommended
+1575,112th Seed (EU),1367,1.01,1077,96.9,2.4,0,1,not recommended
+1576,13 Sentinels: Aegis Rim,1672,1.24,10134,55,4.4,30,35,recommended
+1577,1979 Revolution: Black Friday,1598,1.22,1384,58.2,2.4,3,4,not recommended
+1578,2064: Read Only Memories,2908,2.15,7163,13.9,3,15,20,not recommended
+1579,36 Fragments of Midnight,1367,1.06,8472,82.3,2.5,0,1,not recommended
+1580,36 Fragments of Midnight (Asia),1335,1.03,2131,88.9,2.4,0,1,not recommended
+1581,36 Fragments of Midnight (EU),1382,1.07,12273,79.2,2.4,0,1,not recommended
+1582,428: Shibuya Scramble,1943,1.47,916,41.5,4.2,40,50,recommended
+1583,428: Shibuya Scramble (EU),1917,1.45,718,42.6,4.2,40,50,recommended
